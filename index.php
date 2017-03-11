@@ -190,7 +190,7 @@
 	
 	   
 	   LED Control:
-      <form method="get" action="gpio.php">
+      <form method="get" action="index.php">
                 <input type="submit" value="ON" name="on">
                 <input type="submit" value="OFF" name="off">
                 <input type="submit" value="MOVE" name="move">
