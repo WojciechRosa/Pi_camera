@@ -1,0 +1,1552 @@
+{2017/01/20 21:58:32} RaspiMJPEG Version 5.6.9
+{2017/01/20 21:58:33} recommended video buffers 1
+{2017/01/20 21:58:33} h264 buffers set to recommended 1
+{2017/01/20 21:58:33} Opening FIFO 0 /var/www/html/FIFO 6
+{2017/01/20 21:58:33} Opening FIFO 1 /var/www/html/FIFO11 7
+{2017/01/20 21:58:33} MJPEG streaming, ready to receive commands
+{2017/01/20 21:58:33} send smd 9
+[2017/01/20 21:58:34] RaspiCam support started
+[2017/01/20 21:58:34] Capture Pipe already exists /var/www/html/FIFO1
+[2017/01/20 21:58:34] Scheduler loop is started
+{2017/01/20 21:58:34} Starting command loop
+[2017/01/20 21:58:34] Reload parameters command requested
+[2017/01/20 21:58:34] Scheduler loop is started
+[2017/01/20 21:58:35] New period detected 0
+[2017/01/20 21:58:35] Scheduled management tasks. Next at 1484949515
+{2017/01/20 21:59:51} Change: video_stabilisation = 1
+{2017/01/20 22:01:19} Change: video_width = 1920
+{2017/01/20 22:01:19} Change: video_height = 1080
+{2017/01/20 22:01:19} Change: video_fps = 25
+{2017/01/20 22:01:19} Change: MP4Box_fps = 25
+{2017/01/20 22:01:19} Change: image_width = 2592
+{2017/01/20 22:01:19} Change: image_height = 1944
+{2017/01/20 22:01:19} recommended video buffers 1
+{2017/01/20 22:01:19} h264 buffers set to recommended 1
+{2017/01/20 22:01:28} Change: video_width = 1920
+{2017/01/20 22:01:28} Change: video_height = 1080
+{2017/01/20 22:01:28} Change: video_fps = 01
+{2017/01/20 22:01:28} Change: MP4Box_fps = 30
+{2017/01/20 22:01:28} Change: image_width = 2592
+{2017/01/20 22:01:28} Change: image_height = 1944
+{2017/01/20 22:01:29} recommended video buffers 1
+{2017/01/20 22:01:29} h264 buffers set to recommended 1
+{2017/01/20 22:01:35} Change: video_width = 1920
+{2017/01/20 22:01:35} Change: video_height = 1080
+{2017/01/20 22:01:35} Change: video_fps = 25
+{2017/01/20 22:01:35} Change: MP4Box_fps = 25
+{2017/01/20 22:01:35} Change: image_width = 2592
+{2017/01/20 22:01:35} Change: image_height = 1944
+{2017/01/20 22:01:35} recommended video buffers 1
+{2017/01/20 22:01:35} h264 buffers set to recommended 1
+{2017/01/20 22:01:38} Change: video_width = 1920
+{2017/01/20 22:01:38} Change: video_height = 1080
+{2017/01/20 22:01:38} Change: video_fps = 25
+{2017/01/20 22:01:38} Change: MP4Box_fps = 25
+{2017/01/20 22:01:38} Change: image_width = 2592
+{2017/01/20 22:01:38} Change: image_height = 1944
+{2017/01/20 22:01:38} recommended video buffers 1
+{2017/01/20 22:01:38} h264 buffers set to recommended 1
+{2017/01/20 22:01:42} Change: video_width = 1296
+{2017/01/20 22:01:42} Change: video_height = 972
+{2017/01/20 22:01:42} Change: video_fps = 25
+{2017/01/20 22:01:42} Change: MP4Box_fps = 25
+{2017/01/20 22:01:42} Change: image_width = 2592
+{2017/01/20 22:01:42} Change: image_height = 1944
+{2017/01/20 22:01:42} recommended video buffers 1
+{2017/01/20 22:01:42} h264 buffers set to recommended 1
+{2017/01/20 22:01:51} Change: video_width = 1280
+{2017/01/20 22:01:51} Change: video_height = 0720
+{2017/01/20 22:01:51} Change: video_fps = 25
+{2017/01/20 22:01:51} Change: MP4Box_fps = 25
+{2017/01/20 22:01:51} Change: image_width = 2592
+{2017/01/20 22:01:51} Change: image_height = 1944
+{2017/01/20 22:01:51} recommended video buffers 1
+{2017/01/20 22:01:51} h264 buffers set to recommended 1
+{2017/01/20 22:01:56} Change: video_width = 1920
+{2017/01/20 22:01:56} Change: video_height = 1080
+{2017/01/20 22:01:56} Change: video_fps = 25
+{2017/01/20 22:01:56} Change: MP4Box_fps = 25
+{2017/01/20 22:01:56} Change: image_width = 2592
+{2017/01/20 22:01:56} Change: image_height = 1944
+{2017/01/20 22:01:56} recommended video buffers 1
+{2017/01/20 22:01:56} h264 buffers set to recommended 1
+{2017/01/20 22:02:01} Change: video_width = 768
+{2017/01/20 22:02:01} Change: video_height = 576
+{2017/01/20 22:02:01} Change: video_fps = 25
+{2017/01/20 22:02:01} Change: MP4Box_fps = 25
+{2017/01/20 22:02:01} Change: image_width = 2592
+{2017/01/20 22:02:01} Change: image_height = 1944
+{2017/01/20 22:02:02} recommended video buffers 1
+{2017/01/20 22:02:02} h264 buffers set to recommended 1
+{2017/01/20 22:02:13} Change: video_width = 1296
+{2017/01/20 22:02:13} Change: video_height = 972
+{2017/01/20 22:02:13} Change: video_fps = 25
+{2017/01/20 22:02:13} Change: MP4Box_fps = 25
+{2017/01/20 22:02:13} Change: image_width = 2592
+{2017/01/20 22:02:13} Change: image_height = 1944
+{2017/01/20 22:02:13} recommended video buffers 1
+{2017/01/20 22:02:13} h264 buffers set to recommended 1
+{2017/01/20 22:02:33} External motion detection started
+{2017/01/20 22:02:34} recommended video buffers 1
+{2017/01/20 22:02:34} h264 buffers set to recommended 1
+{2017/01/20 22:02:47} External motion detection stopped
+{2017/01/20 22:02:47} recommended video buffers 1
+{2017/01/20 22:02:47} h264 buffers set to recommended 1
+{2017/01/20 22:03:32} Change: annotation = ABWR DOM %Y.%M.%D_%h:%m:%s
+{2017/01/20 22:03:56} Change: rotation = 180
+{2017/01/20 22:04:17} Change: image_quality = 100
+{2017/01/20 22:04:34} Change: image_quality = 10
+{2017/01/20 22:06:16} Change: video_width = 1920
+{2017/01/20 22:06:16} Change: video_height = 1080
+{2017/01/20 22:06:16} Change: video_fps = 25
+{2017/01/20 22:06:16} Change: MP4Box_fps = 25
+{2017/01/20 22:06:16} Change: image_width = 2592
+{2017/01/20 22:06:16} Change: image_height = 1944
+{2017/01/20 22:06:16} recommended video buffers 1
+{2017/01/20 22:06:16} h264 buffers set to recommended 1
+{2017/01/20 22:06:37} Change: anno3_custom_text_colour = 1
+{2017/01/20 22:06:37} Change: anno3_custom_text_Y = 255
+{2017/01/20 22:06:37} Change: anno3_custom_text_U = 128
+{2017/01/20 22:06:37} Change: anno3_custom_text_V = 128
+{2017/01/20 22:15:33} Change: video_width = 1296
+{2017/01/20 22:15:33} Change: video_height = 972
+{2017/01/20 22:15:33} Change: video_fps = 25
+{2017/01/20 22:15:33} Change: MP4Box_fps = 25
+{2017/01/20 22:15:33} Change: image_width = 2592
+{2017/01/20 22:15:33} Change: image_height = 1944
+{2017/01/20 22:15:33} recommended video buffers 1
+{2017/01/20 22:15:33} h264 buffers set to recommended 1
+{2017/01/20 22:16:11} Change: stat_pass = 1
+{2017/01/20 22:16:11} recommended video buffers 1
+{2017/01/20 22:16:11} h264 buffers set to recommended 1
+{2017/01/20 22:16:18} Change: stat_pass = 0
+{2017/01/20 22:16:18} recommended video buffers 1
+{2017/01/20 22:16:18} h264 buffers set to recommended 1
+{2017/01/20 22:19:52} External motion detection started
+{2017/01/20 22:19:52} recommended video buffers 1
+{2017/01/20 22:19:52} h264 buffers set to recommended 1
+{2017/01/20 22:20:28} Capturing image
+{2017/01/20 22:20:59} Timelapse started
+{2017/01/20 22:21:02} Capturing image
+{2017/01/20 22:21:05} Capturing image
+{2017/01/20 22:21:08} Capturing image
+{2017/01/20 22:21:11} Capturing image
+{2017/01/20 22:21:14} Capturing image
+{2017/01/20 22:21:17} Capturing image
+{2017/01/20 22:21:20} Capturing image
+{2017/01/20 22:21:23} Capturing image
+{2017/01/20 22:21:26} Capturing image
+{2017/01/20 22:21:29} Capturing image
+{2017/01/20 22:21:32} Capturing image
+{2017/01/20 22:21:33} Capturing image
+{2017/01/20 22:21:36} Capturing image
+{2017/01/20 22:21:38} Timelapse stopped
+{2017/01/20 22:24:17} Change: image_quality = 100
+{2017/01/20 22:24:50} Change: stat_pass = 1
+{2017/01/20 22:24:50} recommended video buffers 1
+{2017/01/20 22:24:50} h264 buffers set to recommended 1
+{2017/01/20 22:24:52} Capturing image
+{2017/01/20 22:26:28} External motion detection stopped
+{2017/01/20 22:26:29} recommended video buffers 1
+{2017/01/20 22:26:29} h264 buffers set to recommended 1
+{2017/01/20 22:26:39} External motion detection started
+{2017/01/20 22:26:40} recommended video buffers 1
+{2017/01/20 22:26:40} h264 buffers set to recommended 1
+{2017/01/20 22:31:07} Motion already running. md 1 ignored
+{2017/01/20 22:31:08} recommended video buffers 1
+{2017/01/20 22:31:08} h264 buffers set to recommended 1
+{2017/01/20 22:31:10} Motion already running. md 1 ignored
+{2017/01/20 22:31:11} recommended video buffers 1
+{2017/01/20 22:31:11} h264 buffers set to recommended 1
+{2017/01/20 22:31:14} Capturing started
+{2017/01/20 22:32:56} Timelapse started
+{2017/01/20 22:32:56} Capturing image
+{2017/01/20 22:32:59} Capturing image
+{2017/01/20 22:33:02} Capturing image
+{2017/01/20 22:33:05} Capturing image
+{2017/01/20 22:33:08} Capturing image
+{2017/01/20 22:33:11} Capturing image
+{2017/01/20 22:33:14} Capturing image
+{2017/01/20 22:33:17} Capturing image
+{2017/01/20 22:33:20} Capturing image
+{2017/01/20 22:33:23} Capturing image
+{2017/01/20 22:33:26} Capturing image
+{2017/01/20 22:33:29} Capturing image
+{2017/01/20 22:33:32} Capturing image
+{2017/01/20 22:33:36} Capturing image
+{2017/01/20 22:33:39} Capturing image
+{2017/01/20 22:33:42} Capturing image
+{2017/01/20 22:33:45} Capturing image
+{2017/01/20 22:33:48} Capturing image
+{2017/01/20 22:33:51} Capturing image
+{2017/01/20 22:33:54} Capturing image
+{2017/01/20 22:33:57} Capturing image
+{2017/01/20 22:34:00} Capturing image
+{2017/01/20 22:34:03} Capturing image
+{2017/01/20 22:34:06} Capturing image
+{2017/01/20 22:34:09} Capturing image
+{2017/01/20 22:34:12} Capturing image
+{2017/01/20 22:34:15} Capturing image
+{2017/01/20 22:34:18} Capturing image
+{2017/01/20 22:34:21} Capturing image
+{2017/01/20 22:34:24} Capturing image
+{2017/01/20 22:34:27} Capturing image
+{2017/01/20 22:34:31} Capturing image
+{2017/01/20 22:34:31} Timelapse stopped
+{2017/01/20 22:17:08} RaspiMJPEG Version 5.6.9
+{2017/01/20 22:17:09} recommended video buffers 1
+{2017/01/20 22:17:09} h264 buffers set to recommended 1
+{2017/01/20 22:17:09} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/20 22:17:09} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/20 22:17:09} MJPEG streaming, ready to receive commands
+{2017/01/20 22:17:09} send smd 9
+[2017/01/20 22:17:17] RaspiCam support started
+[2017/01/20 22:17:17] Capture Pipe already exists /var/www/html/FIFO1
+[2017/01/20 22:17:17] Scheduler loop is started
+{2017/01/20 22:17:17} Starting command loop
+[2017/01/20 22:17:17] Reload parameters command requested
+[2017/01/20 22:17:17] Scheduler loop is started
+[2017/01/20 22:17:18] New period detected 0
+[2017/01/20 22:17:18] Scheduled management tasks. Next at 1484950638
+{2017/01/20 22:17:32} Change: rotation = 0
+{2017/01/20 22:17:08} RaspiMJPEG Version 5.6.9
+{2017/01/20 22:17:09} recommended video buffers 1
+{2017/01/20 22:17:09} h264 buffers set to recommended 1
+{2017/01/20 22:17:09} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/20 22:17:09} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/20 22:17:09} MJPEG streaming, ready to receive commands
+{2017/01/20 22:17:09} send smd 9
+[2017/01/20 22:17:13] RaspiCam support started
+[2017/01/20 22:17:13] Capture Pipe already exists /var/www/html/FIFO1
+[2017/01/20 22:17:13] Scheduler loop is started
+{2017/01/20 22:17:13} Starting command loop
+[2017/01/20 22:17:13] Reload parameters command requested
+[2017/01/20 22:17:13] Scheduler loop is started
+[2017/01/20 22:17:14] New period detected 0
+[2017/01/20 22:17:14] Scheduled management tasks. Next at 1484950634
+{2017/01/20 22:20:03} Change: video_width = 1920
+{2017/01/20 22:20:03} Change: video_height = 1080
+{2017/01/20 22:20:03} Change: video_fps = 01
+{2017/01/20 22:20:03} Change: MP4Box_fps = 30
+{2017/01/20 22:20:03} Change: image_width = 2592
+{2017/01/20 22:20:03} Change: image_height = 1944
+{2017/01/20 22:20:04} recommended video buffers 1
+{2017/01/20 22:20:04} h264 buffers set to recommended 1
+{2017/01/20 22:20:15} Change: video_width = 768
+{2017/01/20 22:20:15} Change: video_height = 576
+{2017/01/20 22:20:15} Change: video_fps = 25
+{2017/01/20 22:20:15} Change: MP4Box_fps = 25
+{2017/01/20 22:20:15} Change: image_width = 2592
+{2017/01/20 22:20:15} Change: image_height = 1944
+{2017/01/20 22:20:15} recommended video buffers 1
+{2017/01/20 22:20:15} h264 buffers set to recommended 1
+{2017/01/20 22:21:38} Change: video_width = 768
+{2017/01/20 22:21:38} Change: video_height = 576
+{2017/01/20 22:21:38} Change: video_fps = 30
+{2017/01/20 22:21:38} Change: MP4Box_fps = 25
+{2017/01/20 22:21:38} Change: image_width = 2592
+{2017/01/20 22:21:38} Change: image_height = 1944
+{2017/01/20 22:21:39} recommended video buffers 1
+{2017/01/20 22:21:39} h264 buffers set to recommended 1
+{2017/01/20 22:22:55} Change: iso = 400
+{2017/01/20 22:23:04} External motion detection started
+{2017/01/20 22:23:05} recommended video buffers 1
+{2017/01/20 22:23:05} h264 buffers set to recommended 1
+{2017/01/20 22:23:16} External motion detection stopped
+{2017/01/20 22:23:16} recommended video buffers 1
+{2017/01/20 22:23:16} h264 buffers set to recommended 1
+{2017/01/20 22:23:17} External motion detection started
+{2017/01/20 22:23:17} recommended video buffers 1
+{2017/01/20 22:23:17} h264 buffers set to recommended 1
+{2017/01/20 22:23:18} External motion detection stopped
+{2017/01/20 22:23:19} recommended video buffers 1
+{2017/01/20 22:23:19} h264 buffers set to recommended 1
+{2017/01/20 22:23:32} Change: brightness = 0
+{2017/01/20 22:23:44} Change: brightness = 50
+{2017/01/20 22:23:52} Change: iso = 0
+{2017/01/20 22:24:01} Change: metering_mode = matrix
+{2017/01/20 22:24:37} Change: video_stabilisation = 0
+{2017/01/20 22:24:53} Change: video_width = 1920
+{2017/01/20 22:24:53} Change: video_height = 1080
+{2017/01/20 22:24:53} Change: video_fps = 25
+{2017/01/20 22:24:53} Change: MP4Box_fps = 25
+{2017/01/20 22:24:53} Change: image_width = 2592
+{2017/01/20 22:24:53} Change: image_height = 1944
+{2017/01/20 22:24:53} recommended video buffers 1
+{2017/01/20 22:24:53} h264 buffers set to recommended 1
+{2017/01/20 22:25:05} Change: video_width = 1296
+{2017/01/20 22:25:05} Change: video_height = 972
+{2017/01/20 22:25:05} Change: video_fps = 25
+{2017/01/20 22:25:05} Change: MP4Box_fps = 25
+{2017/01/20 22:25:05} Change: image_width = 2592
+{2017/01/20 22:25:05} Change: image_height = 1944
+{2017/01/20 22:25:05} recommended video buffers 1
+{2017/01/20 22:25:05} h264 buffers set to recommended 1
+{2017/01/20 22:26:42} Change: quality = 100
+{2017/01/20 22:26:42} Change: width = 512
+{2017/01/20 22:26:42} Change: divider = 1
+{2017/01/20 22:26:42} recommended video buffers 1
+{2017/01/20 22:26:42} h264 buffers set to recommended 1
+{2017/01/20 22:28:57} Change: motion_external = 0
+{2017/01/20 22:32:12} Stream halted
+{2017/01/20 22:33:16} recommended video buffers 1
+{2017/01/20 22:33:16} h264 buffers set to recommended 1
+{2017/01/20 22:33:16} Set up internal detect width=82 height=61
+{2017/01/20 22:33:16} Stream continued
+{2017/01/20 22:33:23} Stream halted
+{2017/01/20 22:33:40} recommended video buffers 1
+{2017/01/20 22:33:40} h264 buffers set to recommended 1
+{2017/01/20 22:33:40} Set up internal detect width=82 height=61
+{2017/01/20 22:33:40} Stream continued
+{2017/01/20 22:34:01} Stream halted
+{2017/01/20 22:50:18} recommended video buffers 1
+{2017/01/20 22:50:18} h264 buffers set to recommended 1
+{2017/01/20 22:50:18} Set up internal detect width=82 height=61
+{2017/01/20 22:50:18} Stream continued
+{2017/01/20 22:50:19} Error: Could not enable camera
+{2017/01/20 22:50:19} Executing macro /var/www/html/macros/error_hard.sh "Could not enable camera"  
+{2017/01/20 22:50:24} RaspiMJPEG Version 5.6.9
+{2017/01/20 22:50:25} recommended video buffers 1
+{2017/01/20 22:50:25} h264 buffers set to recommended 1
+{2017/01/20 22:50:25} Set up internal detect width=82 height=61
+{2017/01/20 22:50:25} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/20 22:50:25} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/20 22:50:25} MJPEG streaming, ready to receive commands
+{2017/01/20 22:50:25} send smd 9
+{2017/01/20 22:50:25} Starting command loop
+[2017/01/20 22:50:25] Reload parameters command requested
+[2017/01/20 22:50:25] Scheduler loop is started
+[2017/01/20 22:50:26] New period detected 0
+[2017/01/20 22:50:26] Scheduled management tasks. Next at 1484952626
+{2017/01/20 22:55:11} Stream halted
+{2017/01/20 22:55:26} recommended video buffers 1
+{2017/01/20 22:55:26} h264 buffers set to recommended 1
+{2017/01/20 22:55:26} Set up internal detect width=82 height=61
+{2017/01/20 22:55:26} Stream continued
+{2017/01/20 22:55:30} Capturing started
+{2017/01/20 22:55:56} Capturing stopped
+{2017/01/20 22:55:56} Add /var/www/html/media/vi_0000_20170120_225530.mp4 to Box Queue at pos 0
+{2017/01/20 22:55:56} Start boxing /var/www/html/media/vi_0000_20170120_225530.mp4.h264 to /var/www/html/media/vi_0000_20170120_225530.mp4 Queue pos 0
+{2017/01/20 22:55:57} Finished boxing /var/www/html/media/vi_0000_20170120_225530.mp4 from Box Queue at pos 0
+{2017/01/20 22:55:57} Removed item from Box Queue
+{2017/01/20 22:56:01} Capturing image
+{2017/01/20 23:07:12} Stream halted
+{2017/01/20 23:07:14} recommended video buffers 1
+{2017/01/20 23:07:14} h264 buffers set to recommended 1
+{2017/01/20 23:07:14} Set up internal detect width=82 height=61
+{2017/01/20 23:07:14} Stream continued
+[2017/01/20 23:50:27] Scheduled management tasks. Next at 1484956227
+[2017/01/21 00:50:28] Scheduled management tasks. Next at 1484959828
+[2017/01/21 01:50:29] Scheduled management tasks. Next at 1484963429
+[2017/01/21 02:50:30] Scheduled management tasks. Next at 1484967030
+[2017/01/21 03:50:31] Scheduled management tasks. Next at 1484970631
+[2017/01/21 04:50:32] Scheduled management tasks. Next at 1484974232
+[2017/01/21 05:50:33] Scheduled management tasks. Next at 1484977833
+[2017/01/21 06:50:34] Scheduled management tasks. Next at 1484981434
+[2017/01/21 07:50:35] Scheduled management tasks. Next at 1484985035
+{2017/01/21 08:09:56} Stream halted
+{2017/01/21 08:10:03} RaspiMJPEG Version 5.6.9
+{2017/01/21 08:10:04} recommended video buffers 1
+{2017/01/21 08:10:04} h264 buffers set to recommended 1
+{2017/01/21 08:10:04} Set up internal detect width=82 height=61
+{2017/01/21 08:10:04} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/21 08:10:04} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/21 08:10:04} MJPEG streaming, ready to receive commands
+{2017/01/21 08:10:04} send smd 9
+{2017/01/21 08:10:04} Starting command loop
+[2017/01/21 08:10:04] Reload parameters command requested
+[2017/01/21 08:10:04] Scheduler loop is started
+[2017/01/21 08:10:05] New period detected 0
+[2017/01/21 08:10:05] Scheduled management tasks. Next at 1484986205
+[2017/01/21 09:10:06] Scheduled management tasks. Next at 1484989806
+[2017/01/21 10:10:07] Scheduled management tasks. Next at 1484993407
+[2017/01/21 11:10:08] Scheduled management tasks. Next at 1484997008
+[2017/01/21 12:10:09] Scheduled management tasks. Next at 1485000609
+{2017/01/21 12:17:09} RaspiMJPEG Version 5.6.9
+{2017/01/21 12:17:10} recommended video buffers 1
+{2017/01/21 12:17:10} h264 buffers set to recommended 1
+{2017/01/21 12:17:10} Set up internal detect width=82 height=61
+{2017/01/21 12:17:10} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/21 12:17:10} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/21 12:17:10} MJPEG streaming, ready to receive commands
+{2017/01/21 12:17:10} send smd 9
+[2017/01/21 12:17:28] RaspiCam support started
+[2017/01/21 12:17:37] Capture Pipe already exists /var/www/html/FIFO1
+[2017/01/21 12:17:37] Scheduler loop is started
+{2017/01/21 12:17:37} Starting command loop
+[2017/01/21 12:17:37] Reload parameters command requested
+[2017/01/21 12:17:37] Scheduler loop is started
+[2017/01/21 12:17:38] New period detected 0
+[2017/01/21 12:17:38] Scheduled management tasks. Next at 1485001058
+{2017/01/21 12:17:45} Change: video_width = 1920
+{2017/01/21 12:17:45} Change: video_height = 1080
+{2017/01/21 12:17:45} Change: video_fps = 25
+{2017/01/21 12:17:45} Change: MP4Box_fps = 25
+{2017/01/21 12:17:45} Change: image_width = 2592
+{2017/01/21 12:17:45} Change: image_height = 1944
+{2017/01/21 12:17:45} recommended video buffers 1
+{2017/01/21 12:17:45} h264 buffers set to recommended 1
+{2017/01/21 12:17:45} Set up internal detect width=121 height=68
+{2017/01/21 12:18:22} Change: vector_preview = 1
+{2017/01/21 12:18:22} recommended video buffers 1
+{2017/01/21 12:18:22} h264 buffers set to recommended 1
+{2017/01/21 12:18:22} Set up internal detect width=121 height=68
+{2017/01/21 12:18:42} Change: motion_noise = 101
+{2017/01/21 12:19:13} Error: Could not send buffer with motion data
+{2017/01/21 12:19:13} Internal motion detection started
+{2017/01/21 12:19:14} recommended video buffers 1
+{2017/01/21 12:19:14} h264 buffers set to recommended 1
+{2017/01/21 12:19:14} Set up internal detect width=121 height=68
+{2017/01/21 12:19:27} Internal motion detection stopped
+{2017/01/21 12:19:27} recommended video buffers 1
+{2017/01/21 12:19:27} h264 buffers set to recommended 1
+{2017/01/21 12:19:27} Set up internal detect width=121 height=68
+{2017/01/21 12:19:32} Change: vector_preview = 0
+{2017/01/21 12:19:33} recommended video buffers 1
+{2017/01/21 12:19:33} h264 buffers set to recommended 1
+{2017/01/21 12:19:33} Set up internal detect width=121 height=68
+{2017/01/21 12:19:37} Internal motion detection started
+{2017/01/21 12:19:37} recommended video buffers 1
+{2017/01/21 12:19:37} h264 buffers set to recommended 1
+{2017/01/21 12:19:37} Set up internal detect width=121 height=68
+{2017/01/21 12:19:45} Internal motion detection stopped
+{2017/01/21 12:19:45} recommended video buffers 1
+{2017/01/21 12:19:45} h264 buffers set to recommended 1
+{2017/01/21 12:19:45} Set up internal detect width=121 height=68
+{2017/01/21 12:19:47} Timelapse started
+{2017/01/21 12:19:48} Timelapse stopped
+[2017/01/21 12:21:21] Saved schedule settings
+[2017/01/21 12:21:21] Send Schedule reset
+[2017/01/21 12:21:21] Reload parameters command requested
+[2017/01/21 12:21:21] Scheduler loop is started
+[2017/01/21 12:21:22] New period detected 0
+[2017/01/21 12:21:22] Scheduled management tasks. Next at 1485001282
+{2017/01/21 12:21:30} Timelapse started
+{2017/01/21 12:21:32} Capturing image
+{2017/01/21 12:21:35} Capturing image
+{2017/01/21 12:21:38} Capturing image
+{2017/01/21 12:21:41} Capturing image
+{2017/01/21 12:21:44} Capturing image
+{2017/01/21 12:21:47} Capturing image
+{2017/01/21 12:21:50} Capturing image
+{2017/01/21 12:21:53} Capturing image
+{2017/01/21 12:21:56} Capturing image
+{2017/01/21 12:21:59} Capturing image
+{2017/01/21 12:22:02} Capturing image
+{2017/01/21 12:22:05} Capturing image
+{2017/01/21 12:22:08} Capturing image
+{2017/01/21 12:22:12} Capturing image
+{2017/01/21 12:22:15} Capturing image
+{2017/01/21 12:22:18} Capturing image
+{2017/01/21 12:22:21} Capturing image
+{2017/01/21 12:22:24} Capturing image
+{2017/01/21 12:22:27} Capturing image
+{2017/01/21 12:22:30} Capturing image
+{2017/01/21 12:22:33} Capturing image
+{2017/01/21 12:22:36} Capturing image
+{2017/01/21 12:22:40} Capturing image
+{2017/01/21 12:22:43} Capturing image
+{2017/01/21 12:22:46} Capturing image
+{2017/01/21 12:22:49} Capturing image
+{2017/01/21 12:22:52} Capturing image
+{2017/01/21 12:22:55} Capturing image
+{2017/01/21 12:22:57} Timelapse stopped
+{2017/01/21 12:24:53} Change: video_width = 1280
+{2017/01/21 12:24:53} Change: video_height = 0720
+{2017/01/21 12:24:53} Change: video_fps = 25
+{2017/01/21 12:24:53} Change: MP4Box_fps = 25
+{2017/01/21 12:24:53} Change: image_width = 2592
+{2017/01/21 12:24:53} Change: image_height = 1944
+{2017/01/21 12:24:53} recommended video buffers 1
+{2017/01/21 12:24:53} h264 buffers set to recommended 1
+{2017/01/21 12:24:53} Set up internal detect width=81 height=45
+{2017/01/21 12:24:57} Change: video_width = 1296
+{2017/01/21 12:24:57} Change: video_height = 972
+{2017/01/21 12:24:57} Change: video_fps = 25
+{2017/01/21 12:24:57} Change: MP4Box_fps = 25
+{2017/01/21 12:24:57} Change: image_width = 2592
+{2017/01/21 12:24:57} Change: image_height = 1944
+{2017/01/21 12:24:58} recommended video buffers 1
+{2017/01/21 12:24:58} h264 buffers set to recommended 1
+{2017/01/21 12:24:58} Set up internal detect width=82 height=61
+{2017/01/21 12:35:40} Stream halted
+{2017/01/21 12:35:43} recommended video buffers 1
+{2017/01/21 12:35:43} h264 buffers set to recommended 1
+{2017/01/21 12:35:43} Set up internal detect width=82 height=61
+{2017/01/21 12:35:43} Stream continued
+{2017/01/21 15:17:09} RaspiMJPEG Version 5.6.9
+{2017/01/21 15:17:10} recommended video buffers 1
+{2017/01/21 15:17:10} h264 buffers set to recommended 1
+{2017/01/21 15:17:10} Set up internal detect width=82 height=61
+{2017/01/21 15:17:10} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/21 15:17:10} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/21 15:17:10} MJPEG streaming, ready to receive commands
+{2017/01/21 15:17:10} send smd 9
+[2017/01/21 15:17:16] RaspiCam support started
+[2017/01/21 15:17:17] Capture Pipe already exists /var/www/html/FIFO1
+[2017/01/21 15:17:17] Scheduler loop is started
+{2017/01/21 15:17:17} Starting command loop
+[2017/01/21 15:17:17] Reload parameters command requested
+[2017/01/21 15:17:17] Scheduler loop is started
+[2017/01/21 15:17:18] New period detected 0
+[2017/01/21 15:17:18] Scheduled management tasks. Next at 1485011838
+{2017/01/21 15:29:36} Change: video_width = 1920
+{2017/01/21 15:29:36} Change: video_height = 1080
+{2017/01/21 15:29:36} Change: video_fps = 25
+{2017/01/21 15:29:36} Change: MP4Box_fps = 25
+{2017/01/21 15:29:36} Change: image_width = 2592
+{2017/01/21 15:29:36} Change: image_height = 1944
+{2017/01/21 15:29:37} recommended video buffers 1
+{2017/01/21 15:29:37} h264 buffers set to recommended 1
+{2017/01/21 15:29:37} Set up internal detect width=121 height=68
+{2017/01/21 15:29:47} Change: video_stabilisation = 1
+{2017/01/21 15:30:12} Capturing image
+{2017/01/21 15:30:42} Internal motion detection started
+{2017/01/21 15:30:42} recommended video buffers 1
+{2017/01/21 15:30:42} h264 buffers set to recommended 1
+{2017/01/21 15:30:42} Set up internal detect width=121 height=68
+{2017/01/21 15:31:00} Watchdog detected problem. Stopping{2017/01/21 15:31:01} SIGINT/SIGTERM received, stopping
+{2017/01/21 15:31:06} RaspiMJPEG Version 5.6.9
+{2017/01/21 15:31:06} recommended video buffers 1
+{2017/01/21 15:31:06} h264 buffers set to recommended 1
+{2017/01/21 15:31:06} Set up internal detect width=121 height=68
+{2017/01/21 15:31:06} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/21 15:31:06} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/21 15:31:06} MJPEG streaming, ready to receive commands
+{2017/01/21 15:31:06} send smd 9
+{2017/01/21 15:31:06} Starting command loop
+[2017/01/21 15:31:06] Reload parameters command requested
+[2017/01/21 15:31:06] Scheduler loop is started
+[2017/01/21 15:31:07] New period detected 0
+[2017/01/21 15:31:07] Scheduled management tasks. Next at 1485012667
+[2017/01/21 16:31:08] Scheduled management tasks. Next at 1485016268
+[2017/01/21 17:31:09] Scheduled management tasks. Next at 1485019869
+{2017/01/21 17:17:14} RaspiMJPEG Version 5.6.9
+{2017/01/21 17:17:15} recommended video buffers 1
+{2017/01/21 17:17:15} h264 buffers set to recommended 1
+{2017/01/21 17:17:15} Set up internal detect width=121 height=68
+{2017/01/21 17:17:15} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/21 17:17:15} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/21 17:17:15} MJPEG streaming, ready to receive commands
+{2017/01/21 17:17:15} send smd 9
+[2017/01/21 17:17:19] RaspiCam support started
+[2017/01/21 17:17:21] Capture Pipe already exists /var/www/html/FIFO1
+[2017/01/21 17:17:21] Scheduler loop is started
+{2017/01/21 17:17:21} Starting command loop
+[2017/01/21 17:17:21] Reload parameters command requested
+[2017/01/21 17:17:21] Scheduler loop is started
+[2017/01/21 17:17:22] New period detected 0
+[2017/01/21 17:17:22] Scheduled management tasks. Next at 1485019042
+{2017/01/21 17:17:10} RaspiMJPEG Version 5.6.9
+{2017/01/21 17:17:10} recommended video buffers 1
+{2017/01/21 17:17:10} h264 buffers set to recommended 1
+{2017/01/21 17:17:10} Set up internal detect width=121 height=68
+{2017/01/21 17:17:10} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/21 17:17:10} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/21 17:17:10} MJPEG streaming, ready to receive commands
+{2017/01/21 17:17:10} send smd 9
+[2017/01/21 17:17:15] RaspiCam support started
+[2017/01/21 17:17:15] Capture Pipe already exists /var/www/html/FIFO1
+[2017/01/21 17:17:15] Scheduler loop is started
+{2017/01/21 17:17:15} Starting command loop
+[2017/01/21 17:17:16] Reload parameters command requested
+[2017/01/21 17:17:16] Scheduler loop is started
+[2017/01/21 17:17:17] New period detected 0
+[2017/01/21 17:17:17] Scheduled management tasks. Next at 1485019037
+{2017/01/21 17:17:10} RaspiMJPEG Version 5.6.9
+{2017/01/21 17:17:11} recommended video buffers 1
+{2017/01/21 17:17:11} h264 buffers set to recommended 1
+{2017/01/21 17:17:11} Set up internal detect width=121 height=68
+{2017/01/21 17:17:11} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/21 17:17:11} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/21 17:17:11} MJPEG streaming, ready to receive commands
+{2017/01/21 17:17:11} send smd 9
+[2017/01/21 17:17:15] RaspiCam support started
+[2017/01/21 17:17:16] Capture Pipe already exists /var/www/html/FIFO1
+[2017/01/21 17:17:16] Scheduler loop is started
+{2017/01/21 17:17:16} Starting command loop
+[2017/01/21 17:17:16] Reload parameters command requested
+[2017/01/21 17:17:16] Scheduler loop is started
+[2017/01/21 17:17:17] New period detected 0
+[2017/01/21 17:17:17] Scheduled management tasks. Next at 1485019037
+{2017/01/21 17:17:53} Change: video_width = 1296
+{2017/01/21 17:17:53} Change: video_height = 972
+{2017/01/21 17:17:53} Change: video_fps = 25
+{2017/01/21 17:17:53} Change: MP4Box_fps = 25
+{2017/01/21 17:17:53} Change: image_width = 2592
+{2017/01/21 17:17:53} Change: image_height = 1944
+{2017/01/21 17:17:53} recommended video buffers 1
+{2017/01/21 17:17:53} h264 buffers set to recommended 1
+{2017/01/21 17:17:53} Set up internal detect width=82 height=61
+[2017/01/21 18:17:18] Scheduled management tasks. Next at 1485022638
+[2017/01/21 19:17:19] Scheduled management tasks. Next at 1485026239
+[2017/01/21 20:17:20] Scheduled management tasks. Next at 1485029840
+[2017/01/21 21:17:21] Scheduled management tasks. Next at 1485033441
+[2017/01/21 22:17:22] Scheduled management tasks. Next at 1485037042
+[2017/01/21 23:17:23] Scheduled management tasks. Next at 1485040643
+[2017/01/22 00:17:24] Scheduled management tasks. Next at 1485044244
+[2017/01/22 01:17:25] Scheduled management tasks. Next at 1485047845
+[2017/01/22 02:17:26] Scheduled management tasks. Next at 1485051446
+[2017/01/22 03:17:27] Scheduled management tasks. Next at 1485055047
+[2017/01/22 04:17:28] Scheduled management tasks. Next at 1485058648
+[2017/01/22 05:17:29] Scheduled management tasks. Next at 1485062249
+[2017/01/22 06:17:30] Scheduled management tasks. Next at 1485065850
+[2017/01/22 07:17:31] Scheduled management tasks. Next at 1485069451
+[2017/01/22 08:17:32] Scheduled management tasks. Next at 1485073052
+[2017/01/22 09:17:33] Scheduled management tasks. Next at 1485076653
+{2017/01/22 09:45:53} Change: video_width = 1920
+{2017/01/22 09:45:53} Change: video_height = 1080
+{2017/01/22 09:45:53} Change: video_fps = 25
+{2017/01/22 09:45:53} Change: MP4Box_fps = 25
+{2017/01/22 09:45:53} Change: image_width = 2592
+{2017/01/22 09:45:53} Change: image_height = 1944
+{2017/01/22 09:45:54} recommended video buffers 1
+{2017/01/22 09:45:54} h264 buffers set to recommended 1
+{2017/01/22 09:45:54} Set up internal detect width=121 height=68
+{2017/01/22 09:45:58} Change: video_width = 768
+{2017/01/22 09:45:58} Change: video_height = 576
+{2017/01/22 09:45:58} Change: video_fps = 25
+{2017/01/22 09:45:58} Change: MP4Box_fps = 25
+{2017/01/22 09:45:58} Change: image_width = 2592
+{2017/01/22 09:45:58} Change: image_height = 1944
+{2017/01/22 09:45:58} recommended video buffers 1
+{2017/01/22 09:45:58} h264 buffers set to recommended 1
+{2017/01/22 09:45:58} Set up internal detect width=49 height=36
+{2017/01/22 09:46:08} Change: video_width = 1920
+{2017/01/22 09:46:08} Change: video_height = 1080
+{2017/01/22 09:46:08} Change: video_fps = 01
+{2017/01/22 09:46:08} Change: MP4Box_fps = 30
+{2017/01/22 09:46:08} Change: image_width = 2592
+{2017/01/22 09:46:08} Change: image_height = 1944
+{2017/01/22 09:46:08} recommended video buffers 1
+{2017/01/22 09:46:08} h264 buffers set to recommended 1
+{2017/01/22 09:46:08} Set up internal detect width=121 height=68
+{2017/01/22 09:46:19} Change: video_width = 1296
+{2017/01/22 09:46:19} Change: video_height = 972
+{2017/01/22 09:46:19} Change: video_fps = 25
+{2017/01/22 09:46:19} Change: MP4Box_fps = 25
+{2017/01/22 09:46:19} Change: image_width = 2592
+{2017/01/22 09:46:19} Change: image_height = 1944
+{2017/01/22 09:46:20} recommended video buffers 1
+{2017/01/22 09:46:20} h264 buffers set to recommended 1
+{2017/01/22 09:46:20} Set up internal detect width=82 height=61
+[2017/01/22 10:17:34] Scheduled management tasks. Next at 1485080254
+[2017/01/22 11:17:35] Scheduled management tasks. Next at 1485083855
+[2017/01/22 12:17:36] Scheduled management tasks. Next at 1485087456
+[2017/01/22 13:17:37] Scheduled management tasks. Next at 1485091057
+[2017/01/22 14:17:38] Scheduled management tasks. Next at 1485094658
+[2017/01/22 15:17:39] Scheduled management tasks. Next at 1485098259
+[2017/01/22 16:17:40] Scheduled management tasks. Next at 1485101860
+[2017/01/22 17:17:41] Scheduled management tasks. Next at 1485105461
+[2017/01/22 18:17:42] Scheduled management tasks. Next at 1485109062
+[2017/01/22 19:17:43] Scheduled management tasks. Next at 1485112663
+[2017/01/22 20:17:44] Scheduled management tasks. Next at 1485116264
+[2017/01/22 21:17:45] Scheduled management tasks. Next at 1485119865
+[2017/01/22 22:17:46] Scheduled management tasks. Next at 1485123466
+[2017/01/22 23:17:47] Scheduled management tasks. Next at 1485127067
+[2017/01/23 00:17:48] Scheduled management tasks. Next at 1485130668
+[2017/01/23 01:17:49] Scheduled management tasks. Next at 1485134269
+[2017/01/23 02:17:50] Scheduled management tasks. Next at 1485137870
+[2017/01/23 03:17:51] Scheduled management tasks. Next at 1485141471
+[2017/01/23 04:17:52] Scheduled management tasks. Next at 1485145072
+[2017/01/23 05:17:53] Scheduled management tasks. Next at 1485148673
+[2017/01/23 06:17:54] Scheduled management tasks. Next at 1485152274
+{2017/01/23 07:11:35} Internal motion detection started
+{2017/01/23 07:11:35} recommended video buffers 1
+{2017/01/23 07:11:35} h264 buffers set to recommended 1
+{2017/01/23 07:11:35} Set up internal detect width=82 height=61
+{2017/01/23 07:12:25} Internal motion detection stopped
+{2017/01/23 07:12:25} recommended video buffers 1
+{2017/01/23 07:12:25} h264 buffers set to recommended 1
+{2017/01/23 07:12:25} Set up internal detect width=82 height=61
+[2017/01/23 07:17:55] Scheduled management tasks. Next at 1485155875
+[2017/01/23 08:17:56] Scheduled management tasks. Next at 1485159476
+[2017/01/23 09:17:57] Scheduled management tasks. Next at 1485163077
+[2017/01/23 10:17:58] Scheduled management tasks. Next at 1485166678
+[2017/01/23 11:17:59] Scheduled management tasks. Next at 1485170279
+[2017/01/23 12:18:00] Scheduled management tasks. Next at 1485173880
+[2017/01/23 13:18:01] Scheduled management tasks. Next at 1485177481
+[2017/01/23 14:18:02] Scheduled management tasks. Next at 1485181082
+[2017/01/23 15:18:03] Scheduled management tasks. Next at 1485184683
+[2017/01/23 16:18:04] Scheduled management tasks. Next at 1485188284
+[2017/01/23 17:18:05] Scheduled management tasks. Next at 1485191885
+[2017/01/23 18:18:06] Scheduled management tasks. Next at 1485195486
+[2017/01/23 19:18:07] Scheduled management tasks. Next at 1485199087
+[2017/01/23 20:18:08] Scheduled management tasks. Next at 1485202688
+[2017/01/23 21:18:09] Scheduled management tasks. Next at 1485206289
+[2017/01/23 22:18:10] Scheduled management tasks. Next at 1485209890
+[2017/01/23 23:18:11] Scheduled management tasks. Next at 1485213491
+[2017/01/24 00:18:12] Scheduled management tasks. Next at 1485217092
+[2017/01/24 01:18:13] Scheduled management tasks. Next at 1485220693
+[2017/01/24 02:18:14] Scheduled management tasks. Next at 1485224294
+[2017/01/24 03:18:15] Scheduled management tasks. Next at 1485227895
+[2017/01/24 04:18:16] Scheduled management tasks. Next at 1485231496
+[2017/01/24 05:18:17] Scheduled management tasks. Next at 1485235097
+[2017/01/24 06:18:18] Scheduled management tasks. Next at 1485238698
+[2017/01/24 07:18:19] Scheduled management tasks. Next at 1485242299
+[2017/01/24 08:18:20] Scheduled management tasks. Next at 1485245900
+[2017/01/24 09:18:21] Scheduled management tasks. Next at 1485249501
+[2017/01/24 10:18:22] Scheduled management tasks. Next at 1485253102
+[2017/01/24 11:18:23] Scheduled management tasks. Next at 1485256703
+[2017/01/24 12:18:24] Scheduled management tasks. Next at 1485260304
+[2017/01/24 13:18:25] Scheduled management tasks. Next at 1485263905
+[2017/01/24 14:18:26] Scheduled management tasks. Next at 1485267506
+{2017/01/24 14:17:09} RaspiMJPEG Version 5.6.9
+{2017/01/24 14:17:10} recommended video buffers 1
+{2017/01/24 14:17:10} h264 buffers set to recommended 1
+{2017/01/24 14:17:10} Set up internal detect width=82 height=61
+{2017/01/24 14:17:10} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/24 14:17:10} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/24 14:17:10} MJPEG streaming, ready to receive commands
+{2017/01/24 14:17:10} send smd 9
+[2017/01/24 14:17:14] RaspiCam support started
+[2017/01/24 14:17:16] Capture Pipe already exists /var/www/html/FIFO1
+[2017/01/24 14:17:16] Scheduler loop is started
+{2017/01/24 14:17:16} Starting command loop
+[2017/01/24 14:17:16] Reload parameters command requested
+[2017/01/24 14:17:16] Scheduler loop is started
+[2017/01/24 14:17:17] New period detected 0
+[2017/01/24 14:17:17] Scheduled management tasks. Next at 1485267437
+[2017/01/24 15:17:18] Scheduled management tasks. Next at 1485271038
+[2017/01/24 16:17:19] Scheduled management tasks. Next at 1485274639
+[2017/01/24 17:17:20] Scheduled management tasks. Next at 1485278240
+{2017/01/24 17:17:09} RaspiMJPEG Version 5.6.9
+{2017/01/24 17:17:10} recommended video buffers 1
+{2017/01/24 17:17:10} h264 buffers set to recommended 1
+{2017/01/24 17:17:10} Set up internal detect width=82 height=61
+{2017/01/24 17:17:10} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/24 17:17:10} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/24 17:17:10} MJPEG streaming, ready to receive commands
+{2017/01/24 17:17:10} send smd 9
+[2017/01/24 17:17:14] RaspiCam support started
+[2017/01/24 17:17:14] Capture Pipe already exists /var/www/html/FIFO1
+[2017/01/24 17:17:14] Scheduler loop is started
+{2017/01/24 17:17:14} Starting command loop
+[2017/01/24 17:17:14] Reload parameters command requested
+[2017/01/24 17:17:14] Scheduler loop is started
+[2017/01/24 17:17:15] New period detected 0
+[2017/01/24 17:17:15] Scheduled management tasks. Next at 1485278235
+[2017/01/24 18:17:16] Scheduled management tasks. Next at 1485281836
+[2017/01/24 19:17:17] Scheduled management tasks. Next at 1485285437
+[2017/01/24 20:17:18] Scheduled management tasks. Next at 1485289038
+[2017/01/24 21:17:19] Scheduled management tasks. Next at 1485292639
+[2017/01/24 22:17:20] Scheduled management tasks. Next at 1485296240
+[2017/01/24 23:17:21] Scheduled management tasks. Next at 1485299841
+[2017/01/25 00:17:22] Scheduled management tasks. Next at 1485303442
+[2017/01/25 01:17:23] Scheduled management tasks. Next at 1485307043
+[2017/01/25 02:17:24] Scheduled management tasks. Next at 1485310644
+[2017/01/25 03:17:25] Scheduled management tasks. Next at 1485314245
+[2017/01/25 04:17:26] Scheduled management tasks. Next at 1485317846
+[2017/01/25 05:17:27] Scheduled management tasks. Next at 1485321447
+[2017/01/25 06:17:28] Scheduled management tasks. Next at 1485325048
+[2017/01/25 07:17:29] Scheduled management tasks. Next at 1485328649
+[2017/01/25 08:17:30] Scheduled management tasks. Next at 1485332250
+[2017/01/25 09:17:31] Scheduled management tasks. Next at 1485335851
+[2017/01/25 10:17:32] Scheduled management tasks. Next at 1485339452
+[2017/01/25 11:17:33] Scheduled management tasks. Next at 1485343053
+[2017/01/25 12:17:34] Scheduled management tasks. Next at 1485346654
+[2017/01/25 13:17:35] Scheduled management tasks. Next at 1485350255
+[2017/01/25 14:17:36] Scheduled management tasks. Next at 1485353856
+[2017/01/25 15:17:37] Scheduled management tasks. Next at 1485357457
+[2017/01/25 16:17:38] Scheduled management tasks. Next at 1485361058
+[2017/01/25 17:17:39] Scheduled management tasks. Next at 1485364659
+[2017/01/25 18:17:40] Scheduled management tasks. Next at 1485368260
+[2017/01/25 19:17:41] Scheduled management tasks. Next at 1485371861
+[2017/01/25 20:17:42] Scheduled management tasks. Next at 1485375462
+[2017/01/25 21:17:43] Scheduled management tasks. Next at 1485379063
+[2017/01/25 22:17:44] Scheduled management tasks. Next at 1485382664
+[2017/01/25 23:17:45] Scheduled management tasks. Next at 1485386265
+[2017/01/26 00:17:46] Scheduled management tasks. Next at 1485389866
+[2017/01/26 01:17:47] Scheduled management tasks. Next at 1485393467
+[2017/01/26 02:17:48] Scheduled management tasks. Next at 1485397068
+[2017/01/26 03:17:49] Scheduled management tasks. Next at 1485400669
+[2017/01/26 04:17:50] Scheduled management tasks. Next at 1485404270
+[2017/01/26 05:17:51] Scheduled management tasks. Next at 1485407871
+[2017/01/26 06:17:52] Scheduled management tasks. Next at 1485411472
+[2017/01/26 07:17:53] Scheduled management tasks. Next at 1485415073
+{2017/01/26 07:41:47} Change: video_width = 1920
+{2017/01/26 07:41:47} Change: video_height = 1080
+{2017/01/26 07:41:47} Change: video_fps = 25
+{2017/01/26 07:41:47} Change: MP4Box_fps = 25
+{2017/01/26 07:41:47} Change: image_width = 2592
+{2017/01/26 07:41:47} Change: image_height = 1944
+{2017/01/26 07:41:47} recommended video buffers 1
+{2017/01/26 07:41:47} h264 buffers set to recommended 1
+{2017/01/26 07:41:47} Set up internal detect width=121 height=68
+{2017/01/26 07:41:51} Change: video_width = 1296
+{2017/01/26 07:41:51} Change: video_height = 972
+{2017/01/26 07:41:51} Change: video_fps = 25
+{2017/01/26 07:41:51} Change: MP4Box_fps = 25
+{2017/01/26 07:41:51} Change: image_width = 2592
+{2017/01/26 07:41:51} Change: image_height = 1944
+{2017/01/26 07:41:51} recommended video buffers 1
+{2017/01/26 07:41:51} h264 buffers set to recommended 1
+{2017/01/26 07:41:51} Set up internal detect width=82 height=61
+{2017/01/26 07:42:20} Change: metering_mode = spot
+{2017/01/26 07:42:34} Change: metering_mode = average
+{2017/01/26 07:43:37} Change: raw_layer = 1
+{2017/01/26 07:43:43} Change: raw_layer = 0
+[2017/01/26 08:17:54] Scheduled management tasks. Next at 1485418674
+[2017/01/26 09:17:55] Scheduled management tasks. Next at 1485422275
+[2017/01/26 10:17:56] Scheduled management tasks. Next at 1485425876
+[2017/01/26 11:17:57] Scheduled management tasks. Next at 1485429477
+[2017/01/26 12:17:58] Scheduled management tasks. Next at 1485433078
+[2017/01/26 13:17:59] Scheduled management tasks. Next at 1485436679
+{2017/01/26 13:17:10} RaspiMJPEG Version 5.6.9
+{2017/01/26 13:17:11} recommended video buffers 1
+{2017/01/26 13:17:11} h264 buffers set to recommended 1
+{2017/01/26 13:17:11} Set up internal detect width=82 height=61
+{2017/01/26 13:17:11} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/26 13:17:11} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/26 13:17:11} MJPEG streaming, ready to receive commands
+{2017/01/26 13:17:11} send smd 9
+[2017/01/26 13:17:25] RaspiCam support started
+[2017/01/26 13:17:37] Capture Pipe already exists /var/www/html/FIFO1
+[2017/01/26 13:17:37] Scheduler loop is started
+{2017/01/26 13:17:37} Starting command loop
+[2017/01/26 13:17:37] Reload parameters command requested
+[2017/01/26 13:17:37] Scheduler loop is started
+[2017/01/26 13:17:38] New period detected 0
+[2017/01/26 13:17:38] Scheduled management tasks. Next at 1485436658
+[2017/01/26 14:17:39] Scheduled management tasks. Next at 1485440259
+[2017/01/26 15:17:40] Scheduled management tasks. Next at 1485443860
+[2017/01/26 16:17:41] Scheduled management tasks. Next at 1485447461
+[2017/01/26 17:17:42] Scheduled management tasks. Next at 1485451062
+[2017/01/26 18:17:43] Scheduled management tasks. Next at 1485454663
+[2017/01/26 19:17:44] Scheduled management tasks. Next at 1485458264
+{2017/01/26 19:17:09} RaspiMJPEG Version 5.6.9
+{2017/01/26 19:17:10} recommended video buffers 1
+{2017/01/26 19:17:10} h264 buffers set to recommended 1
+{2017/01/26 19:17:10} Set up internal detect width=82 height=61
+{2017/01/26 19:17:10} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/01/26 19:17:10} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/01/26 19:17:10} MJPEG streaming, ready to receive commands
+{2017/01/26 19:17:10} send smd 9
+[2017/01/26 19:17:16] RaspiCam support started
+[2017/01/26 19:17:17] Capture Pipe already exists /var/www/html/FIFO1
+[2017/01/26 19:17:17] Scheduler loop is started
+{2017/01/26 19:17:17} Starting command loop
+[2017/01/26 19:17:17] Reload parameters command requested
+[2017/01/26 19:17:17] Scheduler loop is started
+[2017/01/26 19:17:18] New period detected 0
+[2017/01/26 19:17:18] Scheduled management tasks. Next at 1485458238
+[2017/02/11 18:44:49] Scheduled management tasks. Next at 1486838689
+[2017/02/11 19:44:50] Scheduled management tasks. Next at 1486842290
+[2017/02/11 20:44:51] Scheduled management tasks. Next at 1486845891
+[2017/02/11 21:44:52] Scheduled management tasks. Next at 1486849492
+[2017/02/11 22:44:53] Scheduled management tasks. Next at 1486853093
+{2017/02/11 22:17:10} RaspiMJPEG Version 5.6.9
+{2017/02/11 22:17:11} recommended video buffers 1
+{2017/02/11 22:17:11} h264 buffers set to recommended 1
+{2017/02/11 22:17:11} Set up internal detect width=82 height=61
+{2017/02/11 22:17:11} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/02/11 22:17:11} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/02/11 22:17:11} MJPEG streaming, ready to receive commands
+{2017/02/11 22:17:11} send smd 9
+[2017/02/11 22:17:16] RaspiCam support started
+[2017/02/11 22:17:17] Capture Pipe already exists /var/www/html/FIFO1
+[2017/02/11 22:17:17] Scheduler loop is started
+{2017/02/11 22:17:17} Starting command loop
+[2017/02/11 22:17:17] Reload parameters command requested
+[2017/02/11 22:17:17] Scheduler loop is started
+[2017/02/11 22:17:18] New period detected 0
+[2017/02/11 22:17:18] Scheduled management tasks. Next at 1486851438
+{2017/02/11 22:25:28} RaspiMJPEG Version 5.6.9
+{2017/02/11 22:25:28} recommended video buffers 1
+{2017/02/11 22:25:28} h264 buffers set to recommended 1
+{2017/02/11 22:25:29} Set up internal detect width=82 height=61
+{2017/02/11 22:25:29} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/02/11 22:25:29} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/02/11 22:25:29} MJPEG streaming, ready to receive commands
+{2017/02/11 22:25:29} send smd 9
+[2017/02/11 22:25:33] RaspiCam support started
+[2017/02/11 22:25:33] Capture Pipe already exists /var/www/html/FIFO1
+{2017/02/11 22:25:33} Starting command loop
+[2017/02/11 22:25:33] Scheduler loop is started
+[2017/02/11 22:25:33] Reload parameters command requested
+[2017/02/11 22:25:33] Scheduler loop is started
+[2017/02/11 22:25:34] New period detected 0
+[2017/02/11 22:25:34] Scheduled management tasks. Next at 1486851934
+{2017/02/11 22:30:52} RaspiMJPEG Version 5.6.9
+{2017/02/11 22:30:52} recommended video buffers 1
+{2017/02/11 22:30:52} h264 buffers set to recommended 1
+{2017/02/11 22:30:52} Set up internal detect width=82 height=61
+{2017/02/11 22:30:52} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/02/11 22:30:52} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/02/11 22:30:52} MJPEG streaming, ready to receive commands
+{2017/02/11 22:30:52} send smd 9
+[2017/02/11 22:30:56] RaspiCam support started
+[2017/02/11 22:30:57] Capture Pipe already exists /var/www/html/FIFO1
+[2017/02/11 22:30:57] Scheduler loop is started
+{2017/02/11 22:30:57} Starting command loop
+[2017/02/11 22:30:57] Reload parameters command requested
+[2017/02/11 22:30:57] Scheduler loop is started
+[2017/02/11 22:30:58] New period detected 0
+[2017/02/11 22:30:58] Scheduled management tasks. Next at 1486852258
+[2017/02/12 16:00:36] Scheduled management tasks. Next at 1486915236
+{2017/02/12 16:17:11} RaspiMJPEG Version 5.6.9
+{2017/02/12 16:17:11} recommended video buffers 1
+{2017/02/12 16:17:11} h264 buffers set to recommended 1
+{2017/02/12 16:17:11} Set up internal detect width=82 height=61
+{2017/02/12 16:17:11} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/02/12 16:17:11} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/02/12 16:17:11} MJPEG streaming, ready to receive commands
+{2017/02/12 16:17:11} send smd 9
+[2017/02/12 16:17:15] RaspiCam support started
+[2017/02/12 16:17:15] Capture Pipe already exists /var/www/html/FIFO1
+{2017/02/12 16:17:15} Starting command loop
+[2017/02/12 16:17:15] Scheduler loop is started
+[2017/02/12 16:17:15] Reload parameters command requested
+[2017/02/12 16:17:15] Scheduler loop is started
+[2017/02/12 16:17:16] New period detected 0
+[2017/02/12 16:17:16] Scheduled management tasks. Next at 1486916236
+[2017/02/12 17:17:17] Scheduled management tasks. Next at 1486919837
+[2017/02/12 18:17:18] Scheduled management tasks. Next at 1486923438
+{2017/02/12 18:20:53} Change: rotation = 90
+{2017/02/12 18:21:00} Change: rotation = 180
+{2017/02/12 18:21:04} Change: rotation = 270
+[2017/02/12 19:17:19] Scheduled management tasks. Next at 1486927039
+{2017/02/12 19:45:13} Watchdog detected problem. Stopping{2017/02/12 19:45:13} SIGINT/SIGTERM received, stopping
+{2017/02/12 19:45:20} RaspiMJPEG Version 5.6.9
+{2017/02/12 19:45:20} recommended video buffers 1
+{2017/02/12 19:45:20} h264 buffers set to recommended 1
+{2017/02/12 19:45:20} Set up internal detect width=82 height=61
+{2017/02/12 19:45:20} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/02/12 19:45:20} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/02/12 19:45:20} MJPEG streaming, ready to receive commands
+{2017/02/12 19:45:20} send smd 9
+{2017/02/12 19:45:20} Starting command loop
+[2017/02/12 19:45:20] Reload parameters command requested
+[2017/02/12 19:45:20] Scheduler loop is started
+[2017/02/12 19:45:21] New period detected 0
+[2017/02/12 19:45:21] Scheduled management tasks. Next at 1486928721
+{2017/02/12 19:17:10} RaspiMJPEG Version 5.6.9
+{2017/02/12 19:17:11} recommended video buffers 1
+{2017/02/12 19:17:11} h264 buffers set to recommended 1
+{2017/02/12 19:17:11} Set up internal detect width=82 height=61
+{2017/02/12 19:17:11} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/02/12 19:17:11} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/02/12 19:17:11} MJPEG streaming, ready to receive commands
+{2017/02/12 19:17:11} send smd 9
+[2017/02/12 19:17:16] RaspiCam support started
+[2017/02/12 19:17:17] Capture Pipe already exists /var/www/html/FIFO1
+{2017/02/12 19:17:17} Starting command loop
+[2017/02/12 19:17:17] Scheduler loop is started
+[2017/02/12 19:17:17] Reload parameters command requested
+[2017/02/12 19:17:17] Scheduler loop is started
+[2017/02/12 19:17:18] New period detected 0
+[2017/02/12 19:17:18] Scheduled management tasks. Next at 1486927038
+{2017/02/12 20:01:11} Change: rotation = 90
+[2017/02/12 20:17:19] Scheduled management tasks. Next at 1486930639
+[2017/02/12 21:17:20] Scheduled management tasks. Next at 1486934240
+[2017/02/12 22:17:21] Scheduled management tasks. Next at 1486937841
+[2017/02/12 23:17:22] Scheduled management tasks. Next at 1486941442
+[2017/02/13 00:17:23] Scheduled management tasks. Next at 1486945043
+[2017/02/13 01:17:24] Scheduled management tasks. Next at 1486948644
+[2017/02/13 02:17:25] Scheduled management tasks. Next at 1486952245
+[2017/02/13 03:17:26] Scheduled management tasks. Next at 1486955846
+[2017/02/13 04:17:27] Scheduled management tasks. Next at 1486959447
+[2017/02/13 05:17:28] Scheduled management tasks. Next at 1486963048
+[2017/02/13 06:17:29] Scheduled management tasks. Next at 1486966649
+[2017/02/13 07:17:30] Scheduled management tasks. Next at 1486970250
+[2017/02/13 08:17:31] Scheduled management tasks. Next at 1486973851
+[2017/02/13 09:17:32] Scheduled management tasks. Next at 1486977452
+[2017/02/13 10:17:33] Scheduled management tasks. Next at 1486981053
+[2017/02/13 11:17:34] Scheduled management tasks. Next at 1486984654
+[2017/02/13 12:17:35] Scheduled management tasks. Next at 1486988255
+[2017/02/13 13:17:36] Scheduled management tasks. Next at 1486991856
+[2017/02/13 14:17:37] Scheduled management tasks. Next at 1486995457
+[2017/02/13 15:17:38] Scheduled management tasks. Next at 1486999058
+[2017/02/13 16:17:39] Scheduled management tasks. Next at 1487002659
+[2017/02/13 17:17:40] Scheduled management tasks. Next at 1487006260
+[2017/02/13 18:17:41] Scheduled management tasks. Next at 1487009861
+{2017/02/13 18:44:47} Change: rotation = 0
+[2017/02/13 19:17:42] Scheduled management tasks. Next at 1487013462
+[2017/02/13 20:17:43] Scheduled management tasks. Next at 1487017063
+[2017/02/13 21:17:44] Scheduled management tasks. Next at 1487020664
+[2017/02/13 22:17:45] Scheduled management tasks. Next at 1487024265
+[2017/02/13 23:17:46] Scheduled management tasks. Next at 1487027866
+[2017/02/14 00:17:47] Scheduled management tasks. Next at 1487031467
+[2017/02/14 01:17:48] Scheduled management tasks. Next at 1487035068
+[2017/02/14 02:17:49] Scheduled management tasks. Next at 1487038669
+[2017/02/14 03:17:50] Scheduled management tasks. Next at 1487042270
+[2017/02/14 04:17:51] Scheduled management tasks. Next at 1487045871
+[2017/02/14 05:17:52] Scheduled management tasks. Next at 1487049472
+[2017/02/14 06:17:53] Scheduled management tasks. Next at 1487053073
+[2017/02/14 07:17:54] Scheduled management tasks. Next at 1487056674
+[2017/02/14 08:17:55] Scheduled management tasks. Next at 1487060275
+[2017/02/14 09:17:56] Scheduled management tasks. Next at 1487063876
+[2017/02/14 10:17:57] Scheduled management tasks. Next at 1487067477
+[2017/02/14 11:17:58] Scheduled management tasks. Next at 1487071078
+[2017/02/14 12:17:59] Scheduled management tasks. Next at 1487074679
+[2017/02/14 13:18:00] Scheduled management tasks. Next at 1487078280
+[2017/02/14 14:18:01] Scheduled management tasks. Next at 1487081881
+[2017/02/14 15:18:02] Scheduled management tasks. Next at 1487085482
+[2017/02/14 16:18:03] Scheduled management tasks. Next at 1487089083
+[2017/02/14 17:18:04] Scheduled management tasks. Next at 1487092684
+[2017/02/14 18:18:05] Scheduled management tasks. Next at 1487096285
+[2017/02/14 19:18:06] Scheduled management tasks. Next at 1487099886
+[2017/02/14 20:18:07] Scheduled management tasks. Next at 1487103487
+[2017/02/14 21:18:08] Scheduled management tasks. Next at 1487107088
+[2017/02/14 22:18:09] Scheduled management tasks. Next at 1487110689
+[2017/02/14 23:18:10] Scheduled management tasks. Next at 1487114290
+[2017/02/15 00:18:11] Scheduled management tasks. Next at 1487117891
+[2017/02/15 01:18:12] Scheduled management tasks. Next at 1487121492
+[2017/02/15 02:18:13] Scheduled management tasks. Next at 1487125093
+[2017/02/15 03:18:14] Scheduled management tasks. Next at 1487128694
+[2017/02/15 04:18:15] Scheduled management tasks. Next at 1487132295
+[2017/02/15 05:18:16] Scheduled management tasks. Next at 1487135896
+[2017/02/15 06:18:17] Scheduled management tasks. Next at 1487139497
+[2017/02/15 07:18:18] Scheduled management tasks. Next at 1487143098
+[2017/02/15 08:18:19] Scheduled management tasks. Next at 1487146699
+[2017/02/15 09:18:20] Scheduled management tasks. Next at 1487150300
+[2017/02/15 10:18:21] Scheduled management tasks. Next at 1487153901
+[2017/02/15 11:18:22] Scheduled management tasks. Next at 1487157502
+[2017/02/15 12:18:23] Scheduled management tasks. Next at 1487161103
+[2017/02/15 13:18:24] Scheduled management tasks. Next at 1487164704
+[2017/02/15 14:18:25] Scheduled management tasks. Next at 1487168305
+[2017/02/15 15:18:26] Scheduled management tasks. Next at 1487171906
+[2017/02/15 16:18:27] Scheduled management tasks. Next at 1487175507
+[2017/02/15 17:18:28] Scheduled management tasks. Next at 1487179108
+[2017/02/15 18:18:29] Scheduled management tasks. Next at 1487182709
+[2017/02/15 19:18:30] Scheduled management tasks. Next at 1487186310
+[2017/02/15 20:18:31] Scheduled management tasks. Next at 1487189911
+[2017/02/15 21:18:32] Scheduled management tasks. Next at 1487193512
+[2017/02/15 22:18:33] Scheduled management tasks. Next at 1487197113
+[2017/02/15 23:18:34] Scheduled management tasks. Next at 1487200714
+[2017/02/16 00:18:35] Scheduled management tasks. Next at 1487204315
+[2017/02/16 01:18:36] Scheduled management tasks. Next at 1487207916
+[2017/02/16 02:18:37] Scheduled management tasks. Next at 1487211517
+[2017/02/16 03:18:38] Scheduled management tasks. Next at 1487215118
+[2017/02/16 04:18:39] Scheduled management tasks. Next at 1487218719
+[2017/02/16 05:18:40] Scheduled management tasks. Next at 1487222320
+[2017/02/16 06:18:41] Scheduled management tasks. Next at 1487225921
+[2017/02/16 07:18:42] Scheduled management tasks. Next at 1487229522
+[2017/02/16 08:18:43] Scheduled management tasks. Next at 1487233123
+[2017/02/16 09:18:44] Scheduled management tasks. Next at 1487236724
+[2017/02/16 10:18:45] Scheduled management tasks. Next at 1487240325
+[2017/02/16 11:18:46] Scheduled management tasks. Next at 1487243926
+[2017/02/16 12:18:47] Scheduled management tasks. Next at 1487247527
+[2017/02/16 13:18:48] Scheduled management tasks. Next at 1487251128
+[2017/02/16 14:18:49] Scheduled management tasks. Next at 1487254729
+[2017/02/16 15:18:50] Scheduled management tasks. Next at 1487258330
+[2017/02/16 16:18:51] Scheduled management tasks. Next at 1487261931
+[2017/02/16 17:18:52] Scheduled management tasks. Next at 1487265532
+[2017/02/16 18:18:53] Scheduled management tasks. Next at 1487269133
+[2017/02/16 19:18:54] Scheduled management tasks. Next at 1487272734
+[2017/02/16 20:18:55] Scheduled management tasks. Next at 1487276335
+[2017/02/16 21:18:56] Scheduled management tasks. Next at 1487279936
+[2017/02/16 22:18:57] Scheduled management tasks. Next at 1487283537
+[2017/02/16 23:18:58] Scheduled management tasks. Next at 1487287138
+[2017/02/17 00:18:59] Scheduled management tasks. Next at 1487290739
+[2017/02/17 01:19:00] Scheduled management tasks. Next at 1487294340
+[2017/02/17 02:19:01] Scheduled management tasks. Next at 1487297941
+[2017/02/17 03:19:02] Scheduled management tasks. Next at 1487301542
+[2017/02/17 04:19:03] Scheduled management tasks. Next at 1487305143
+[2017/02/17 05:19:04] Scheduled management tasks. Next at 1487308744
+[2017/02/17 06:19:05] Scheduled management tasks. Next at 1487312345
+[2017/02/17 07:19:06] Scheduled management tasks. Next at 1487315946
+[2017/02/17 08:19:07] Scheduled management tasks. Next at 1487319547
+[2017/02/17 09:19:08] Scheduled management tasks. Next at 1487323148
+[2017/02/17 10:19:09] Scheduled management tasks. Next at 1487326749
+[2017/02/17 11:19:10] Scheduled management tasks. Next at 1487330350
+[2017/02/17 12:19:11] Scheduled management tasks. Next at 1487333951
+[2017/02/17 13:19:12] Scheduled management tasks. Next at 1487337552
+[2017/02/17 14:19:13] Scheduled management tasks. Next at 1487341153
+[2017/02/17 15:19:14] Scheduled management tasks. Next at 1487344754
+[2017/02/17 16:19:15] Scheduled management tasks. Next at 1487348355
+[2017/02/17 17:19:16] Scheduled management tasks. Next at 1487351956
+[2017/02/17 18:19:17] Scheduled management tasks. Next at 1487355557
+[2017/02/17 19:19:18] Scheduled management tasks. Next at 1487359158
+[2017/02/17 20:19:19] Scheduled management tasks. Next at 1487362759
+[2017/02/17 21:19:20] Scheduled management tasks. Next at 1487366360
+[2017/02/17 22:19:21] Scheduled management tasks. Next at 1487369961
+[2017/02/17 23:19:22] Scheduled management tasks. Next at 1487373562
+[2017/02/18 00:19:23] Scheduled management tasks. Next at 1487377163
+[2017/02/18 01:19:24] Scheduled management tasks. Next at 1487380764
+[2017/02/18 02:19:25] Scheduled management tasks. Next at 1487384365
+[2017/02/18 03:19:26] Scheduled management tasks. Next at 1487387966
+[2017/02/18 04:19:27] Scheduled management tasks. Next at 1487391567
+[2017/02/18 05:19:28] Scheduled management tasks. Next at 1487395168
+[2017/02/18 06:19:29] Scheduled management tasks. Next at 1487398769
+[2017/02/18 07:19:30] Scheduled management tasks. Next at 1487402370
+[2017/02/18 08:19:31] Scheduled management tasks. Next at 1487405971
+[2017/02/18 09:19:32] Scheduled management tasks. Next at 1487409572
+[2017/02/18 10:19:33] Scheduled management tasks. Next at 1487413173
+[2017/02/18 11:19:34] Scheduled management tasks. Next at 1487416774
+[2017/02/18 12:19:35] Scheduled management tasks. Next at 1487420375
+[2017/02/18 13:19:36] Scheduled management tasks. Next at 1487423976
+[2017/02/18 14:19:37] Scheduled management tasks. Next at 1487427577
+[2017/02/18 15:19:38] Scheduled management tasks. Next at 1487431178
+[2017/02/18 16:19:39] Scheduled management tasks. Next at 1487434779
+[2017/02/18 17:19:40] Scheduled management tasks. Next at 1487438380
+[2017/02/18 18:19:41] Scheduled management tasks. Next at 1487441981
+[2017/02/18 19:19:42] Scheduled management tasks. Next at 1487445582
+[2017/02/18 20:19:43] Scheduled management tasks. Next at 1487449183
+[2017/02/18 21:19:44] Scheduled management tasks. Next at 1487452784
+[2017/02/18 22:19:45] Scheduled management tasks. Next at 1487456385
+[2017/02/18 23:19:46] Scheduled management tasks. Next at 1487459986
+[2017/02/19 00:19:47] Scheduled management tasks. Next at 1487463587
+[2017/02/19 01:19:48] Scheduled management tasks. Next at 1487467188
+[2017/02/19 02:19:49] Scheduled management tasks. Next at 1487470789
+[2017/02/19 03:19:50] Scheduled management tasks. Next at 1487474390
+[2017/02/19 04:19:51] Scheduled management tasks. Next at 1487477991
+[2017/02/19 05:19:52] Scheduled management tasks. Next at 1487481592
+[2017/02/19 06:19:53] Scheduled management tasks. Next at 1487485193
+{2017/02/19 06:17:10} RaspiMJPEG Version 5.6.9
+{2017/02/19 06:17:11} recommended video buffers 1
+{2017/02/19 06:17:11} h264 buffers set to recommended 1
+{2017/02/19 06:17:11} Set up internal detect width=82 height=61
+{2017/02/19 06:17:11} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/02/19 06:17:11} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/02/19 06:17:11} MJPEG streaming, ready to receive commands
+{2017/02/19 06:17:11} send smd 9
+[2017/02/19 06:17:15] RaspiCam support started
+[2017/02/19 06:17:16] Capture Pipe already exists /var/www/html/FIFO1
+[2017/02/19 06:17:16] Scheduler loop is started
+{2017/02/19 06:17:16} Starting command loop
+[2017/02/19 06:17:16] Reload parameters command requested
+[2017/02/19 06:17:16] Scheduler loop is started
+[2017/02/19 06:17:17] New period detected 0
+[2017/02/19 06:17:17] Scheduled management tasks. Next at 1487485037
+[2017/02/21 08:59:45] Scheduled management tasks. Next at 1487667585
+[2017/02/21 09:59:46] Scheduled management tasks. Next at 1487671186
+[2017/02/21 10:59:47] Scheduled management tasks. Next at 1487674787
+[2017/02/21 11:59:48] Scheduled management tasks. Next at 1487678388
+[2017/02/21 12:59:49] Scheduled management tasks. Next at 1487681989
+[2017/02/21 13:59:50] Scheduled management tasks. Next at 1487685590
+[2017/02/21 14:59:51] Scheduled management tasks. Next at 1487689191
+[2017/02/21 15:59:52] Scheduled management tasks. Next at 1487692792
+[2017/02/21 16:59:53] Scheduled management tasks. Next at 1487696393
+[2017/02/21 17:59:54] Scheduled management tasks. Next at 1487699994
+[2017/02/21 18:59:55] Scheduled management tasks. Next at 1487703595
+[2017/02/21 19:59:56] Scheduled management tasks. Next at 1487707196
+[2017/02/21 20:59:57] Scheduled management tasks. Next at 1487710797
+[2017/02/21 21:59:58] Scheduled management tasks. Next at 1487714398
+[2017/02/21 22:59:59] Scheduled management tasks. Next at 1487717999
+[2017/02/22 00:00:00] Scheduled management tasks. Next at 1487721600
+[2017/02/22 01:00:01] Scheduled management tasks. Next at 1487725201
+[2017/02/22 02:00:02] Scheduled management tasks. Next at 1487728802
+[2017/02/22 03:00:03] Scheduled management tasks. Next at 1487732403
+[2017/02/22 04:00:04] Scheduled management tasks. Next at 1487736004
+[2017/02/22 05:00:05] Scheduled management tasks. Next at 1487739605
+[2017/02/22 06:00:06] Scheduled management tasks. Next at 1487743206
+[2017/02/22 07:00:07] Scheduled management tasks. Next at 1487746807
+[2017/02/22 08:00:08] Scheduled management tasks. Next at 1487750408
+[2017/02/22 09:00:09] Scheduled management tasks. Next at 1487754009
+[2017/02/22 10:00:10] Scheduled management tasks. Next at 1487757610
+[2017/02/22 11:00:11] Scheduled management tasks. Next at 1487761211
+[2017/02/22 12:00:12] Scheduled management tasks. Next at 1487764812
+[2017/02/22 13:00:13] Scheduled management tasks. Next at 1487768413
+[2017/02/22 14:00:14] Scheduled management tasks. Next at 1487772014
+[2017/02/22 15:00:15] Scheduled management tasks. Next at 1487775615
+[2017/02/22 16:00:16] Scheduled management tasks. Next at 1487779216
+[2017/02/22 17:00:17] Scheduled management tasks. Next at 1487782817
+[2017/02/22 18:00:18] Scheduled management tasks. Next at 1487786418
+[2017/02/22 19:00:19] Scheduled management tasks. Next at 1487790019
+[2017/02/22 20:00:20] Scheduled management tasks. Next at 1487793620
+[2017/02/22 21:00:21] Scheduled management tasks. Next at 1487797221
+[2017/02/22 22:00:22] Scheduled management tasks. Next at 1487800822
+[2017/02/22 23:00:23] Scheduled management tasks. Next at 1487804423
+[2017/02/23 00:00:24] Scheduled management tasks. Next at 1487808024
+[2017/02/23 01:00:25] Scheduled management tasks. Next at 1487811625
+[2017/02/23 02:00:26] Scheduled management tasks. Next at 1487815226
+[2017/02/23 03:00:27] Scheduled management tasks. Next at 1487818827
+[2017/02/23 04:00:28] Scheduled management tasks. Next at 1487822428
+[2017/02/23 05:00:29] Scheduled management tasks. Next at 1487826029
+[2017/02/23 06:00:30] Scheduled management tasks. Next at 1487829630
+[2017/02/23 07:00:31] Scheduled management tasks. Next at 1487833231
+[2017/02/23 08:00:32] Scheduled management tasks. Next at 1487836832
+[2017/02/23 09:00:33] Scheduled management tasks. Next at 1487840433
+[2017/02/23 10:00:34] Scheduled management tasks. Next at 1487844034
+[2017/02/23 11:00:35] Scheduled management tasks. Next at 1487847635
+[2017/02/23 12:00:36] Scheduled management tasks. Next at 1487851236
+[2017/02/23 13:00:37] Scheduled management tasks. Next at 1487854837
+[2017/02/23 14:00:38] Scheduled management tasks. Next at 1487858438
+[2017/02/23 15:00:39] Scheduled management tasks. Next at 1487862039
+[2017/02/23 16:00:40] Scheduled management tasks. Next at 1487865640
+[2017/02/23 17:00:41] Scheduled management tasks. Next at 1487869241
+[2017/02/23 18:00:42] Scheduled management tasks. Next at 1487872842
+[2017/02/23 19:00:43] Scheduled management tasks. Next at 1487876443
+[2017/02/23 20:00:44] Scheduled management tasks. Next at 1487880044
+[2017/02/23 21:00:45] Scheduled management tasks. Next at 1487883645
+[2017/02/23 22:00:46] Scheduled management tasks. Next at 1487887246
+[2017/02/23 23:00:47] Scheduled management tasks. Next at 1487890847
+[2017/02/24 00:00:48] Scheduled management tasks. Next at 1487894448
+[2017/02/24 01:00:49] Scheduled management tasks. Next at 1487898049
+[2017/02/24 02:00:50] Scheduled management tasks. Next at 1487901650
+[2017/02/24 03:00:51] Scheduled management tasks. Next at 1487905251
+[2017/02/24 04:00:52] Scheduled management tasks. Next at 1487908852
+[2017/02/24 05:00:53] Scheduled management tasks. Next at 1487912453
+[2017/02/24 06:00:54] Scheduled management tasks. Next at 1487916054
+[2017/02/24 07:00:55] Scheduled management tasks. Next at 1487919655
+[2017/02/24 08:00:56] Scheduled management tasks. Next at 1487923256
+[2017/02/24 09:00:57] Scheduled management tasks. Next at 1487926857
+[2017/02/24 10:00:58] Scheduled management tasks. Next at 1487930458
+[2017/02/24 11:00:59] Scheduled management tasks. Next at 1487934059
+[2017/02/24 12:01:00] Scheduled management tasks. Next at 1487937660
+[2017/02/24 13:01:01] Scheduled management tasks. Next at 1487941261
+[2017/02/24 14:01:02] Scheduled management tasks. Next at 1487944862
+[2017/02/24 15:01:03] Scheduled management tasks. Next at 1487948463
+[2017/02/24 16:01:04] Scheduled management tasks. Next at 1487952064
+[2017/02/24 17:01:05] Scheduled management tasks. Next at 1487955665
+[2017/02/24 18:01:06] Scheduled management tasks. Next at 1487959266
+[2017/02/24 19:01:07] Scheduled management tasks. Next at 1487962867
+[2017/02/24 20:01:08] Scheduled management tasks. Next at 1487966468
+[2017/02/24 21:01:09] Scheduled management tasks. Next at 1487970069
+[2017/02/24 22:01:10] Scheduled management tasks. Next at 1487973670
+[2017/02/24 23:01:11] Scheduled management tasks. Next at 1487977271
+[2017/02/25 00:01:12] Scheduled management tasks. Next at 1487980872
+[2017/02/25 01:01:13] Scheduled management tasks. Next at 1487984473
+[2017/02/25 02:01:14] Scheduled management tasks. Next at 1487988074
+[2017/02/25 03:01:15] Scheduled management tasks. Next at 1487991675
+[2017/02/25 04:01:16] Scheduled management tasks. Next at 1487995276
+[2017/02/25 05:01:17] Scheduled management tasks. Next at 1487998877
+[2017/02/25 06:01:18] Scheduled management tasks. Next at 1488002478
+[2017/02/25 07:01:19] Scheduled management tasks. Next at 1488006079
+[2017/02/25 08:01:20] Scheduled management tasks. Next at 1488009680
+[2017/02/25 09:01:21] Scheduled management tasks. Next at 1488013281
+[2017/02/25 10:01:22] Scheduled management tasks. Next at 1488016882
+[2017/02/25 11:01:23] Scheduled management tasks. Next at 1488020483
+[2017/02/25 12:01:24] Scheduled management tasks. Next at 1488024084
+[2017/02/25 13:01:25] Scheduled management tasks. Next at 1488027685
+[2017/02/25 14:01:26] Scheduled management tasks. Next at 1488031286
+[2017/02/25 15:01:27] Scheduled management tasks. Next at 1488034887
+[2017/02/25 16:01:28] Scheduled management tasks. Next at 1488038488
+[2017/02/25 17:01:29] Scheduled management tasks. Next at 1488042089
+[2017/02/25 18:01:30] Scheduled management tasks. Next at 1488045690
+[2017/02/25 19:01:31] Scheduled management tasks. Next at 1488049291
+[2017/02/25 20:01:32] Scheduled management tasks. Next at 1488052892
+[2017/02/25 21:01:33] Scheduled management tasks. Next at 1488056493
+[2017/02/25 22:01:34] Scheduled management tasks. Next at 1488060094
+[2017/02/25 23:01:35] Scheduled management tasks. Next at 1488063695
+[2017/02/26 00:01:36] Scheduled management tasks. Next at 1488067296
+[2017/02/26 01:01:37] Scheduled management tasks. Next at 1488070897
+[2017/02/26 02:01:38] Scheduled management tasks. Next at 1488074498
+[2017/02/26 03:01:39] Scheduled management tasks. Next at 1488078099
+[2017/02/26 04:01:40] Scheduled management tasks. Next at 1488081700
+[2017/02/26 05:01:41] Scheduled management tasks. Next at 1488085301
+[2017/02/26 06:01:42] Scheduled management tasks. Next at 1488088902
+[2017/02/26 07:01:43] Scheduled management tasks. Next at 1488092503
+[2017/02/26 08:01:44] Scheduled management tasks. Next at 1488096104
+[2017/02/26 09:01:45] Scheduled management tasks. Next at 1488099705
+[2017/02/26 10:01:46] Scheduled management tasks. Next at 1488103306
+[2017/02/26 11:01:47] Scheduled management tasks. Next at 1488106907
+[2017/02/26 12:01:48] Scheduled management tasks. Next at 1488110508
+[2017/02/26 13:01:49] Scheduled management tasks. Next at 1488114109
+[2017/02/26 14:01:50] Scheduled management tasks. Next at 1488117710
+[2017/02/26 15:01:51] Scheduled management tasks. Next at 1488121311
+[2017/02/26 16:01:52] Scheduled management tasks. Next at 1488124912
+[2017/02/26 17:01:53] Scheduled management tasks. Next at 1488128513
+[2017/02/26 18:01:54] Scheduled management tasks. Next at 1488132114
+[2017/02/26 19:01:55] Scheduled management tasks. Next at 1488135715
+[2017/02/26 20:01:56] Scheduled management tasks. Next at 1488139316
+[2017/02/26 21:01:57] Scheduled management tasks. Next at 1488142917
+[2017/02/26 22:01:58] Scheduled management tasks. Next at 1488146518
+[2017/02/26 23:01:59] Scheduled management tasks. Next at 1488150119
+[2017/02/27 00:02:00] Scheduled management tasks. Next at 1488153720
+[2017/02/27 01:02:01] Scheduled management tasks. Next at 1488157321
+[2017/02/27 02:02:02] Scheduled management tasks. Next at 1488160922
+[2017/02/27 03:02:03] Scheduled management tasks. Next at 1488164523
+[2017/02/27 04:02:04] Scheduled management tasks. Next at 1488168124
+[2017/02/27 05:02:05] Scheduled management tasks. Next at 1488171725
+[2017/02/27 06:02:06] Scheduled management tasks. Next at 1488175326
+[2017/02/27 07:02:07] Scheduled management tasks. Next at 1488178927
+[2017/02/27 08:02:08] Scheduled management tasks. Next at 1488182528
+[2017/02/27 09:02:09] Scheduled management tasks. Next at 1488186129
+[2017/02/27 10:02:10] Scheduled management tasks. Next at 1488189730
+[2017/02/27 11:02:11] Scheduled management tasks. Next at 1488193331
+[2017/02/27 12:02:12] Scheduled management tasks. Next at 1488196932
+[2017/02/27 13:02:13] Scheduled management tasks. Next at 1488200533
+[2017/02/27 14:02:14] Scheduled management tasks. Next at 1488204134
+[2017/02/27 15:02:15] Scheduled management tasks. Next at 1488207735
+[2017/02/27 16:02:16] Scheduled management tasks. Next at 1488211336
+[2017/02/27 17:02:17] Scheduled management tasks. Next at 1488214937
+[2017/02/27 18:02:18] Scheduled management tasks. Next at 1488218538
+[2017/02/27 19:02:19] Scheduled management tasks. Next at 1488222139
+[2017/02/27 20:02:20] Scheduled management tasks. Next at 1488225740
+[2017/02/27 21:02:21] Scheduled management tasks. Next at 1488229341
+[2017/02/27 22:02:22] Scheduled management tasks. Next at 1488232942
+[2017/02/27 23:02:23] Scheduled management tasks. Next at 1488236543
+[2017/02/28 00:02:24] Scheduled management tasks. Next at 1488240144
+[2017/02/28 01:02:25] Scheduled management tasks. Next at 1488243745
+[2017/02/28 02:02:26] Scheduled management tasks. Next at 1488247346
+[2017/02/28 03:02:27] Scheduled management tasks. Next at 1488250947
+[2017/02/28 04:02:28] Scheduled management tasks. Next at 1488254548
+[2017/02/28 05:02:29] Scheduled management tasks. Next at 1488258149
+[2017/02/28 06:02:30] Scheduled management tasks. Next at 1488261750
+[2017/02/28 07:02:31] Scheduled management tasks. Next at 1488265351
+[2017/02/28 08:02:32] Scheduled management tasks. Next at 1488268952
+[2017/02/28 09:02:33] Scheduled management tasks. Next at 1488272553
+[2017/02/28 10:02:34] Scheduled management tasks. Next at 1488276154
+[2017/02/28 11:02:35] Scheduled management tasks. Next at 1488279755
+[2017/02/28 12:02:36] Scheduled management tasks. Next at 1488283356
+[2017/02/28 13:02:37] Scheduled management tasks. Next at 1488286957
+[2017/02/28 14:02:38] Scheduled management tasks. Next at 1488290558
+[2017/02/28 15:02:39] Scheduled management tasks. Next at 1488294159
+[2017/02/28 16:02:40] Scheduled management tasks. Next at 1488297760
+[2017/02/28 17:02:41] Scheduled management tasks. Next at 1488301361
+[2017/02/28 18:02:42] Scheduled management tasks. Next at 1488304962
+[2017/02/28 19:02:43] Scheduled management tasks. Next at 1488308563
+[2017/02/28 20:02:44] Scheduled management tasks. Next at 1488312164
+[2017/02/28 21:02:45] Scheduled management tasks. Next at 1488315765
+[2017/02/28 22:02:46] Scheduled management tasks. Next at 1488319366
+[2017/02/28 23:02:47] Scheduled management tasks. Next at 1488322967
+[2017/03/01 00:02:48] Scheduled management tasks. Next at 1488326568
+[2017/03/01 01:02:49] Scheduled management tasks. Next at 1488330169
+[2017/03/01 02:02:50] Scheduled management tasks. Next at 1488333770
+[2017/03/01 03:02:51] Scheduled management tasks. Next at 1488337371
+[2017/03/01 04:02:52] Scheduled management tasks. Next at 1488340972
+[2017/03/01 05:02:53] Scheduled management tasks. Next at 1488344573
+[2017/03/01 06:02:54] Scheduled management tasks. Next at 1488348174
+[2017/03/01 07:02:55] Scheduled management tasks. Next at 1488351775
+[2017/03/01 08:02:56] Scheduled management tasks. Next at 1488355376
+[2017/03/01 09:02:57] Scheduled management tasks. Next at 1488358977
+[2017/03/01 10:02:58] Scheduled management tasks. Next at 1488362578
+[2017/03/01 11:02:59] Scheduled management tasks. Next at 1488366179
+[2017/03/01 12:03:00] Scheduled management tasks. Next at 1488369780
+[2017/03/01 13:03:01] Scheduled management tasks. Next at 1488373381
+[2017/03/01 14:03:02] Scheduled management tasks. Next at 1488376982
+[2017/03/01 15:03:03] Scheduled management tasks. Next at 1488380583
+[2017/03/01 16:03:04] Scheduled management tasks. Next at 1488384184
+[2017/03/01 17:03:05] Scheduled management tasks. Next at 1488387785
+[2017/03/01 18:03:06] Scheduled management tasks. Next at 1488391386
+[2017/03/01 19:03:07] Scheduled management tasks. Next at 1488394987
+[2017/03/01 20:03:08] Scheduled management tasks. Next at 1488398588
+[2017/03/01 21:03:09] Scheduled management tasks. Next at 1488402189
+[2017/03/01 22:03:10] Scheduled management tasks. Next at 1488405790
+[2017/03/01 23:03:11] Scheduled management tasks. Next at 1488409391
+[2017/03/02 00:03:12] Scheduled management tasks. Next at 1488412992
+[2017/03/02 01:03:13] Scheduled management tasks. Next at 1488416593
+[2017/03/02 02:03:14] Scheduled management tasks. Next at 1488420194
+[2017/03/02 03:03:15] Scheduled management tasks. Next at 1488423795
+[2017/03/02 04:03:16] Scheduled management tasks. Next at 1488427396
+[2017/03/02 05:03:17] Scheduled management tasks. Next at 1488430997
+[2017/03/02 06:03:18] Scheduled management tasks. Next at 1488434598
+[2017/03/02 07:03:19] Scheduled management tasks. Next at 1488438199
+[2017/03/02 08:03:20] Scheduled management tasks. Next at 1488441800
+[2017/03/02 09:03:21] Scheduled management tasks. Next at 1488445401
+[2017/03/02 10:03:22] Scheduled management tasks. Next at 1488449002
+[2017/03/02 11:03:23] Scheduled management tasks. Next at 1488452603
+[2017/03/02 12:03:24] Scheduled management tasks. Next at 1488456204
+[2017/03/02 13:03:25] Scheduled management tasks. Next at 1488459805
+[2017/03/02 14:03:26] Scheduled management tasks. Next at 1488463406
+[2017/03/02 15:03:27] Scheduled management tasks. Next at 1488467007
+[2017/03/02 16:03:28] Scheduled management tasks. Next at 1488470608
+[2017/03/02 17:03:29] Scheduled management tasks. Next at 1488474209
+[2017/03/02 18:03:30] Scheduled management tasks. Next at 1488477810
+[2017/03/02 19:03:31] Scheduled management tasks. Next at 1488481411
+[2017/03/02 20:03:32] Scheduled management tasks. Next at 1488485012
+[2017/03/02 21:03:33] Scheduled management tasks. Next at 1488488613
+[2017/03/02 22:03:34] Scheduled management tasks. Next at 1488492214
+[2017/03/02 23:03:35] Scheduled management tasks. Next at 1488495815
+[2017/03/03 00:03:36] Scheduled management tasks. Next at 1488499416
+[2017/03/03 01:03:37] Scheduled management tasks. Next at 1488503017
+[2017/03/03 02:03:38] Scheduled management tasks. Next at 1488506618
+[2017/03/03 03:03:39] Scheduled management tasks. Next at 1488510219
+[2017/03/03 04:03:40] Scheduled management tasks. Next at 1488513820
+[2017/03/03 05:03:41] Scheduled management tasks. Next at 1488517421
+[2017/03/03 06:03:42] Scheduled management tasks. Next at 1488521022
+[2017/03/03 07:03:43] Scheduled management tasks. Next at 1488524623
+[2017/03/03 08:03:44] Scheduled management tasks. Next at 1488528224
+[2017/03/03 09:03:45] Scheduled management tasks. Next at 1488531825
+[2017/03/03 10:03:46] Scheduled management tasks. Next at 1488535426
+[2017/03/03 11:03:47] Scheduled management tasks. Next at 1488539027
+[2017/03/03 12:03:48] Scheduled management tasks. Next at 1488542628
+[2017/03/03 13:03:49] Scheduled management tasks. Next at 1488546229
+[2017/03/03 14:03:50] Scheduled management tasks. Next at 1488549830
+[2017/03/03 15:03:51] Scheduled management tasks. Next at 1488553431
+[2017/03/03 16:03:52] Scheduled management tasks. Next at 1488557032
+[2017/03/03 17:03:53] Scheduled management tasks. Next at 1488560633
+[2017/03/03 18:03:54] Scheduled management tasks. Next at 1488564234
+[2017/03/03 19:03:55] Scheduled management tasks. Next at 1488567835
+[2017/03/03 20:03:56] Scheduled management tasks. Next at 1488571436
+[2017/03/03 21:03:57] Scheduled management tasks. Next at 1488575037
+[2017/03/03 22:03:58] Scheduled management tasks. Next at 1488578638
+[2017/03/03 23:03:59] Scheduled management tasks. Next at 1488582239
+[2017/03/04 00:04:00] Scheduled management tasks. Next at 1488585840
+[2017/03/04 01:04:01] Scheduled management tasks. Next at 1488589441
+[2017/03/04 02:04:02] Scheduled management tasks. Next at 1488593042
+[2017/03/04 03:04:03] Scheduled management tasks. Next at 1488596643
+[2017/03/04 04:04:04] Scheduled management tasks. Next at 1488600244
+[2017/03/04 05:04:05] Scheduled management tasks. Next at 1488603845
+[2017/03/04 06:04:06] Scheduled management tasks. Next at 1488607446
+[2017/03/04 07:04:07] Scheduled management tasks. Next at 1488611047
+[2017/03/04 08:04:08] Scheduled management tasks. Next at 1488614648
+[2017/03/04 09:04:09] Scheduled management tasks. Next at 1488618249
+[2017/03/04 10:04:10] Scheduled management tasks. Next at 1488621850
+[2017/03/04 11:04:11] Scheduled management tasks. Next at 1488625451
+[2017/03/04 12:04:12] Scheduled management tasks. Next at 1488629052
+[2017/03/04 13:04:13] Scheduled management tasks. Next at 1488632653
+[2017/03/04 14:04:14] Scheduled management tasks. Next at 1488636254
+[2017/03/04 15:04:15] Scheduled management tasks. Next at 1488639855
+[2017/03/04 16:04:16] Scheduled management tasks. Next at 1488643456
+[2017/03/04 17:04:17] Scheduled management tasks. Next at 1488647057
+[2017/03/04 18:04:18] Scheduled management tasks. Next at 1488650658
+[2017/03/04 19:04:19] Scheduled management tasks. Next at 1488654259
+[2017/03/04 20:04:20] Scheduled management tasks. Next at 1488657860
+[2017/03/04 21:04:21] Scheduled management tasks. Next at 1488661461
+[2017/03/04 22:04:22] Scheduled management tasks. Next at 1488665062
+[2017/03/04 23:04:23] Scheduled management tasks. Next at 1488668663
+[2017/03/05 00:04:24] Scheduled management tasks. Next at 1488672264
+[2017/03/05 01:04:25] Scheduled management tasks. Next at 1488675865
+[2017/03/05 02:04:26] Scheduled management tasks. Next at 1488679466
+[2017/03/05 03:04:27] Scheduled management tasks. Next at 1488683067
+[2017/03/05 04:04:28] Scheduled management tasks. Next at 1488686668
+[2017/03/05 05:04:29] Scheduled management tasks. Next at 1488690269
+[2017/03/05 06:04:30] Scheduled management tasks. Next at 1488693870
+[2017/03/05 07:04:31] Scheduled management tasks. Next at 1488697471
+[2017/03/05 08:04:32] Scheduled management tasks. Next at 1488701072
+[2017/03/05 09:04:33] Scheduled management tasks. Next at 1488704673
+[2017/03/05 10:04:34] Scheduled management tasks. Next at 1488708274
+[2017/03/05 11:04:35] Scheduled management tasks. Next at 1488711875
+[2017/03/05 12:04:36] Scheduled management tasks. Next at 1488715476
+[2017/03/05 13:04:37] Scheduled management tasks. Next at 1488719077
+[2017/03/05 14:04:38] Scheduled management tasks. Next at 1488722678
+[2017/03/05 15:04:39] Scheduled management tasks. Next at 1488726279
+[2017/03/05 16:04:40] Scheduled management tasks. Next at 1488729880
+[2017/03/05 17:04:41] Scheduled management tasks. Next at 1488733481
+[2017/03/05 18:04:42] Scheduled management tasks. Next at 1488737082
+[2017/03/05 19:04:43] Scheduled management tasks. Next at 1488740683
+[2017/03/05 20:04:44] Scheduled management tasks. Next at 1488744284
+{2017/03/05 20:17:11} RaspiMJPEG Version 5.6.9
+{2017/03/05 20:17:11} recommended video buffers 1
+{2017/03/05 20:17:11} h264 buffers set to recommended 1
+{2017/03/05 20:17:11} Set up internal detect width=82 height=61
+{2017/03/05 20:17:11} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/03/05 20:17:11} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/03/05 20:17:11} MJPEG streaming, ready to receive commands
+{2017/03/05 20:17:11} send smd 9
+[2017/03/05 20:17:16] RaspiCam support started
+[2017/03/05 20:17:16] Capture Pipe already exists /var/www/html/FIFO1
+[2017/03/05 20:17:16] Scheduler loop is started
+{2017/03/05 20:17:16} Starting command loop
+[2017/03/05 20:17:16] Reload parameters command requested
+[2017/03/05 20:17:16] Scheduler loop is started
+[2017/03/05 20:17:17] New period detected 0
+[2017/03/05 20:17:17] Scheduled management tasks. Next at 1488745037
+[2017/03/05 21:17:18] Scheduled management tasks. Next at 1488748638
+[2017/03/05 22:17:19] Scheduled management tasks. Next at 1488752239
+[2017/03/05 23:17:20] Scheduled management tasks. Next at 1488755840
+[2017/03/06 00:17:21] Scheduled management tasks. Next at 1488759441
+[2017/03/06 01:17:22] Scheduled management tasks. Next at 1488763042
+[2017/03/06 02:17:23] Scheduled management tasks. Next at 1488766643
+[2017/03/06 03:17:24] Scheduled management tasks. Next at 1488770244
+[2017/03/06 04:17:25] Scheduled management tasks. Next at 1488773845
+[2017/03/06 05:17:26] Scheduled management tasks. Next at 1488777446
+[2017/03/06 06:17:27] Scheduled management tasks. Next at 1488781047
+[2017/03/06 07:17:28] Scheduled management tasks. Next at 1488784648
+[2017/03/06 08:17:29] Scheduled management tasks. Next at 1488788249
+[2017/03/06 09:17:30] Scheduled management tasks. Next at 1488791850
+[2017/03/06 10:17:31] Scheduled management tasks. Next at 1488795451
+[2017/03/06 11:17:32] Scheduled management tasks. Next at 1488799052
+[2017/03/06 12:17:33] Scheduled management tasks. Next at 1488802653
+[2017/03/06 13:17:34] Scheduled management tasks. Next at 1488806254
+[2017/03/06 14:17:35] Scheduled management tasks. Next at 1488809855
+[2017/03/06 15:17:36] Scheduled management tasks. Next at 1488813456
+[2017/03/06 16:17:37] Scheduled management tasks. Next at 1488817057
+[2017/03/06 17:17:38] Scheduled management tasks. Next at 1488820658
+[2017/03/06 18:17:39] Scheduled management tasks. Next at 1488824259
+[2017/03/06 19:17:40] Scheduled management tasks. Next at 1488827860
+[2017/03/06 20:17:41] Scheduled management tasks. Next at 1488831461
+[2017/03/06 21:17:42] Scheduled management tasks. Next at 1488835062
+[2017/03/06 22:17:43] Scheduled management tasks. Next at 1488838663
+[2017/03/06 23:17:44] Scheduled management tasks. Next at 1488842264
+[2017/03/07 00:17:45] Scheduled management tasks. Next at 1488845865
+[2017/03/07 01:17:46] Scheduled management tasks. Next at 1488849466
+[2017/03/07 02:17:47] Scheduled management tasks. Next at 1488853067
+[2017/03/07 03:17:48] Scheduled management tasks. Next at 1488856668
+[2017/03/07 04:17:49] Scheduled management tasks. Next at 1488860269
+[2017/03/07 05:17:50] Scheduled management tasks. Next at 1488863870
+[2017/03/07 06:17:51] Scheduled management tasks. Next at 1488867471
+[2017/03/07 07:17:52] Scheduled management tasks. Next at 1488871072
+[2017/03/07 08:17:53] Scheduled management tasks. Next at 1488874673
+[2017/03/07 09:17:54] Scheduled management tasks. Next at 1488878274
+[2017/03/07 10:17:55] Scheduled management tasks. Next at 1488881875
+[2017/03/07 11:17:56] Scheduled management tasks. Next at 1488885476
+[2017/03/07 12:17:57] Scheduled management tasks. Next at 1488889077
+[2017/03/07 13:17:58] Scheduled management tasks. Next at 1488892678
+[2017/03/07 14:17:59] Scheduled management tasks. Next at 1488896279
+[2017/03/07 15:18:00] Scheduled management tasks. Next at 1488899880
+[2017/03/07 16:18:01] Scheduled management tasks. Next at 1488903481
+[2017/03/07 17:18:02] Scheduled management tasks. Next at 1488907082
+[2017/03/07 18:18:03] Scheduled management tasks. Next at 1488910683
+[2017/03/07 19:18:04] Scheduled management tasks. Next at 1488914284
+[2017/03/07 20:18:05] Scheduled management tasks. Next at 1488917885
+[2017/03/07 21:18:06] Scheduled management tasks. Next at 1488921486
+[2017/03/07 22:18:07] Scheduled management tasks. Next at 1488925087
+[2017/03/07 23:18:08] Scheduled management tasks. Next at 1488928688
+[2017/03/08 00:18:09] Scheduled management tasks. Next at 1488932289
+[2017/03/08 01:18:10] Scheduled management tasks. Next at 1488935890
+[2017/03/08 02:18:11] Scheduled management tasks. Next at 1488939491
+[2017/03/08 03:18:12] Scheduled management tasks. Next at 1488943092
+[2017/03/08 04:18:13] Scheduled management tasks. Next at 1488946693
+[2017/03/08 05:18:14] Scheduled management tasks. Next at 1488950294
+[2017/03/08 06:18:15] Scheduled management tasks. Next at 1488953895
+[2017/03/08 07:18:16] Scheduled management tasks. Next at 1488957496
+[2017/03/08 08:18:17] Scheduled management tasks. Next at 1488961097
+[2017/03/08 09:18:18] Scheduled management tasks. Next at 1488964698
+[2017/03/08 10:18:19] Scheduled management tasks. Next at 1488968299
+[2017/03/08 11:18:20] Scheduled management tasks. Next at 1488971900
+[2017/03/08 12:18:21] Scheduled management tasks. Next at 1488975501
+[2017/03/08 13:18:22] Scheduled management tasks. Next at 1488979102
+[2017/03/08 14:18:23] Scheduled management tasks. Next at 1488982703
+[2017/03/08 15:18:24] Scheduled management tasks. Next at 1488986304
+[2017/03/08 16:18:25] Scheduled management tasks. Next at 1488989905
+[2017/03/08 17:18:26] Scheduled management tasks. Next at 1488993506
+[2017/03/08 18:18:27] Scheduled management tasks. Next at 1488997107
+{2017/03/08 18:17:11} RaspiMJPEG Version 5.6.9
+{2017/03/08 18:17:11} recommended video buffers 1
+{2017/03/08 18:17:11} h264 buffers set to recommended 1
+{2017/03/08 18:17:11} Set up internal detect width=82 height=61
+{2017/03/08 18:17:11} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/03/08 18:17:11} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/03/08 18:17:11} MJPEG streaming, ready to receive commands
+{2017/03/08 18:17:11} send smd 9
+[2017/03/08 18:17:15] RaspiCam support started
+[2017/03/08 18:17:15] Capture Pipe already exists /var/www/html/FIFO1
+[2017/03/08 18:17:15] Scheduler loop is started
+{2017/03/08 18:17:15} Starting command loop
+[2017/03/08 18:17:15] Reload parameters command requested
+[2017/03/08 18:17:15] Scheduler loop is started
+[2017/03/08 18:17:16] New period detected 0
+[2017/03/08 18:17:16] Scheduled management tasks. Next at 1488997036
+[2017/03/08 19:17:17] Scheduled management tasks. Next at 1489000637
+{2017/03/08 19:17:12} RaspiMJPEG Version 5.6.9
+{2017/03/08 19:17:12} recommended video buffers 1
+{2017/03/08 19:17:12} h264 buffers set to recommended 1
+{2017/03/08 19:17:12} Set up internal detect width=82 height=61
+{2017/03/08 19:17:12} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/03/08 19:17:12} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/03/08 19:17:12} MJPEG streaming, ready to receive commands
+{2017/03/08 19:17:12} send smd 9
+[2017/03/08 19:17:16] RaspiCam support started
+[2017/03/08 19:17:17] Capture Pipe already exists /var/www/html/FIFO1
+[2017/03/08 19:17:17] Scheduler loop is started
+{2017/03/08 19:17:17} Starting command loop
+[2017/03/08 19:17:17] Reload parameters command requested
+[2017/03/08 19:17:17] Scheduler loop is started
+[2017/03/08 19:17:18] New period detected 0
+[2017/03/08 19:17:18] Scheduled management tasks. Next at 1489000638
+[2017/03/08 20:17:19] Scheduled management tasks. Next at 1489004239
+{2017/03/08 20:17:11} RaspiMJPEG Version 5.6.9
+{2017/03/08 20:17:12} recommended video buffers 1
+{2017/03/08 20:17:12} h264 buffers set to recommended 1
+{2017/03/08 20:17:12} Set up internal detect width=82 height=61
+{2017/03/08 20:17:12} Opening FIFO 0 /var/www/html/FIFO 7
+{2017/03/08 20:17:12} Opening FIFO 1 /var/www/html/FIFO11 8
+{2017/03/08 20:17:12} MJPEG streaming, ready to receive commands
+{2017/03/08 20:17:12} send smd 9
+[2017/03/08 20:17:15] RaspiCam support started
+[2017/03/08 20:17:16] Capture Pipe already exists /var/www/html/FIFO1
+[2017/03/08 20:17:16] Scheduler loop is started
+{2017/03/08 20:17:16} Starting command loop
+[2017/03/08 20:17:16] Reload parameters command requested
+[2017/03/08 20:17:16] Scheduler loop is started
+[2017/03/08 20:17:17] New period detected 0
+[2017/03/08 20:17:17] Scheduled management tasks. Next at 1489004237
+[2017/03/08 21:17:18] Scheduled management tasks. Next at 1489007838
+[2017/03/11 14:25:02] Scheduled management tasks. Next at 1489242302
+[2017/03/11 15:25:03] Scheduled management tasks. Next at 1489245903
+[2017/03/11 16:25:04] Scheduled management tasks. Next at 1489249504
+[2017/03/11 17:25:05] Scheduled management tasks. Next at 1489253105

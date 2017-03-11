@@ -1,0 +1,12 @@
+annotation ABWR DOM %Y.%M.%D_%h:%m:%s
+anno3_custom_text_colour 1
+video_stabilisation 1
+raw_layer 0
+quality 100
+video_width 1296
+video_height 972
+image_quality 100
+vector_preview 0
+motion_external 0
+motion_noise 101
+stat_pass 1
