@@ -187,7 +187,32 @@
       <script src="js/pipan.js"></script>
    </head>
    <body onload="setTimeout('init(<?php echo "$mjpegmode, $video_fps, $divider" ?>);', 100);">
-	   <p> wojtek</p>   
+	
+	   
+	   LED Control:
+      <form method="get" action="gpio.php">
+                <input type="submit" value="ON" name="on">
+                <input type="submit" value="OFF" name="off">
+                <input type="submit" value="MOVE" name="move">
+        </form>
+        <?php
+       $setmode17 = shell_exec("sudo gpio -g mode 4 out");
+       if(isset($_GET['on'])){
+              $gpio_on = shell_exec("sudo gpio -g write 4 1");
+               echo "LED is on";
+       }
+        else if(isset($_GET['off'])){
+                $gpio_off = shell_exec("sudo gpio -g write 4 0");
+                echo "LED is off";
+       }
+        else if(isset($_GET['move'])){
+                $gpio_off = shell_exec("sudo python move.py");
+                echo "LED is off";
+       }
+         ?>
+
+	   
+	   
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation" <?php echo $displayStyle; ?>>
          <div class="container">
             <div class="navbar-header">
