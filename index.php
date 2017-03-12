@@ -207,7 +207,7 @@
        }
         else if(isset($_GET['move'])){
                 $gpio_off = shell_exec("sudo python move.py");
-                echo "LED is off";
+                echo "run servo";
        }
          ?>
 
