@@ -193,7 +193,7 @@
       <form method="get" action="index.php">
                 <input type="submit" value="ON" name="on">
                 <input type="submit" value="OFF" name="off">
-                <input type="submit" value="MOVEEEEE" name="move">
+                <input type="submit" value="MOVEEA" name="move">
         </form>
         <?php
        $setmode17 = shell_exec("sudo gpio -g mode 4 out");
