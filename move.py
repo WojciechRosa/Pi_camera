@@ -6,7 +6,7 @@ GPIO.setup(12,GPIO.OUT)
 pwm=GPIO.PWM(12,50)
 pwm.start(7)
 
-for i in range (10,120):
+for i in range (30,110):
         DC=1./18.*(i)+2
         pwm.ChangeDutyCycle(DC)
         time.sleep(.05)
